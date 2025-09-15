@@ -1,0 +1,167 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <FeatureOption TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ChoiceFeatureOption</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+        <Value TYPE="SINGLEVAL" >Genre_Resource</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      <Genre_Resource_Languages TYPE="SUBNODE" >
+        <Languages TYPE="MULTIVAL" >en</Languages>
+        <Languages TYPE="MULTIVAL" >de</Languages>
+      </Genre_Resource_Languages>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Action</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Action</Translation>
+        <Title TYPE="SINGLEVAL" >Action</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Abenteuer</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Adventure</Translation>
+        <Title TYPE="SINGLEVAL" >Adventure</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Zeichentrick</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Animation</Translation>
+        <Title TYPE="SINGLEVAL" >Animation</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Biographie</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Biography</Translation>
+        <Title TYPE="SINGLEVAL" >Biography</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Komödie</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Comedy</Translation>
+        <Title TYPE="SINGLEVAL" >Comedy</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Krimi</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Crime</Translation>
+        <Title TYPE="SINGLEVAL" >Crime</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Dokumentation</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Documentary</Translation>
+        <Title TYPE="SINGLEVAL" >Documentary</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Drama</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Drama</Translation>
+        <Title TYPE="SINGLEVAL" >Drama</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Familie</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Family</Translation>
+        <Title TYPE="SINGLEVAL" >Family</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Fantasie</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Fantasy</Translation>
+        <Title TYPE="SINGLEVAL" >Fantasy</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Film-Noir</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Film-Noir</Translation>
+        <Title TYPE="SINGLEVAL" >Film-Noir</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Game-Show</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Game-Show</Translation>
+        <Title TYPE="SINGLEVAL" >Game-Show</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Geschichte</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >History</Translation>
+        <Title TYPE="SINGLEVAL" >History</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Horror</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Horror</Translation>
+        <Title TYPE="SINGLEVAL" >Horror</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Musik</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Music</Translation>
+        <Title TYPE="SINGLEVAL" >Music</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Musical</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Musical</Translation>
+        <Title TYPE="SINGLEVAL" >Musical</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Mystery</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Mystery</Translation>
+        <Title TYPE="SINGLEVAL" >Mystery</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Nachrichten</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >News</Translation>
+        <Title TYPE="SINGLEVAL" >News</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Reality-TV</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Reality-TV</Translation>
+        <Title TYPE="SINGLEVAL" >Reality-TV</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Liebesgeschichte</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Romance</Translation>
+        <Title TYPE="SINGLEVAL" >Romance</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Sci-Fi</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Sci-Fi</Translation>
+        <Title TYPE="SINGLEVAL" >Sci-Fi</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Title TYPE="SINGLEVAL">Short</Title>
+        <Translation TYPE="SINGLEVAL" language="de">Kurzfilm</Translation>
+        <Translation TYPE="SINGLEVAL" language="en">Short</Translation>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Title TYPE="SINGLEVAL">Sport</Title>
+        <Translation TYPE="SINGLEVAL" language="de">Sport</Translation>
+        <Translation TYPE="SINGLEVAL" language="en">Sport</Translation>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Talk-Show</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Talk-Show</Translation>
+        <Title TYPE="SINGLEVAL" >Talk-Show</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Thriller</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Thriller</Translation>
+        <Title TYPE="SINGLEVAL" >Thriller</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Krieg</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >War</Translation>
+        <Title TYPE="SINGLEVAL" >War</Title>
+      </Genre_Resource>
+      <Genre_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >Western</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >Western</Translation>
+        <Title TYPE="SINGLEVAL" >Western</Title>
+      </Genre_Resource>
+    </FeatureOption>
+    <FeatureValidator TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.validators.ChoiceFeatureValidator</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+        <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Genre</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+    </FeatureValidator>
+    <FeatureOptionMerger TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.merger.choiceFeature.ChoiceFeatureMerger</ClassName>
+      <ArgumentNumber TYPE="SINGLEVAL" >0</ArgumentNumber>
+    </FeatureOptionMerger>
+  </Options>
+</Catalog>

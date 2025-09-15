@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">file</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Datei</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">file</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">directory</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ordner</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">directory</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export to [TYP]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportieren in [TYP]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export to [TYP]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export to directory [DIR]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportieren ins Verzeichnis [DIR]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export to directory [DIR]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Select</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Auswählen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Select</Translation>
+    </I18N>
+  </Options>
+</Catalog>

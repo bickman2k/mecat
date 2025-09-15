@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Title</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Titel</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Title</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Title is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Titel ist nicht gesetzt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Title is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Medium is [TITLE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium ist [TITLE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Medium is [TITLE].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

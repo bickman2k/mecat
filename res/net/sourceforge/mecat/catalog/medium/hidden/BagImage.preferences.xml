@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<BagImage>
+      <Visible TYPE="SINGLEVAL">false</Visible>
+  	</BagImage>
+  </Options>
+</Catalog>

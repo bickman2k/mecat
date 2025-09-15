@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose rom</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wählen des Roms</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose rom</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose file system entry</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wählen des Dateisystemeintrags</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose file system entry</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There is no file list for the selected rom.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das gewählte Rom hat keine Dateiliste.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There is no file list for the selected rom.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

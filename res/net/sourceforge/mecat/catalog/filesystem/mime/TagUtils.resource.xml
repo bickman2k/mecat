@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">File does not exist: [FILE]</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Die Datei existiert nicht: [FILE]</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">File does not exist: [FILE]</Translation>
+		</I18N>
+	</Options>
+</Catalog>

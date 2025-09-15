@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+	  <I18N_Languages>
+		  <Languages TYPE="MULTIVAL">en</Languages>
+	  </I18N_Languages>
+<I18N>
+	<Title TYPE="SINGLEVAL">MCI</Title>
+	<Translation TYPE="SINGLEVAL" language="en">
+   The 'Music CD Identifier' frame is intended for music that comes from a CD, so that the CD
+   can be identified in databases such as the CDDB [CDDB]. The frame
+   consists of a binary dump of the Table Of Contents, TOC,  from the CD,
+   which is a header of 4 bytes and then 8 bytes/track on the CD making a
+   maximum of 804 bytes. This frame requires a present and valid "TRK"
+   frame. There may only be one "MCI" frame in each tag.
+	</Translation>
+</I18N>
+  </Options>
+</Catalog>

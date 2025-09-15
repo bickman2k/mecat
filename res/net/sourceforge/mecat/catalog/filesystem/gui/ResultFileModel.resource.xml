@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Name</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Name</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Size</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Größe</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Size</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Date</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Datum</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Date</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">MD5</Title>
+      <Translation TYPE="SINGLEVAL" language="de">MD5</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">MD5</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

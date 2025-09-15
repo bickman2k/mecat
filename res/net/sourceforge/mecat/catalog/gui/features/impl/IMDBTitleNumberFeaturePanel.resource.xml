@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suchen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">get Akas</Title>
+      <Translation TYPE="SINGLEVAL" language="de">hole Alias</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">get akas</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">get Year</Title>
+      <Translation TYPE="SINGLEVAL" language="de">hole Jahr</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">get year</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">get Runtime</Title>
+      <Translation TYPE="SINGLEVAL" language="de">hole Laufzeit</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">get runtime</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">get Genres</Title>
+      <Translation TYPE="SINGLEVAL" language="de">hole Genres</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">get genres</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">get Summary</Title>
+      <Translation TYPE="SINGLEVAL" language="de">hole Inhalt</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">get summary</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">get cast</Title>
+      <Translation TYPE="SINGLEVAL" language="de">hole Besetzung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">get cast</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

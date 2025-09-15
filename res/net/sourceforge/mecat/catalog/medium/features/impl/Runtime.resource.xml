@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Runtime</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Laufzeit</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Runtime</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The runtime is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Laufzeit is nicht eingestellt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The runtime is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium's content has a duration of [TIME] minutes.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Inhalt des Mediums hat eine Lauflänge von [TIME] Minuten.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium's content has a duration of [TIME] minutes.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium's content has a duration of [TIME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Inhalt des Mediums hat eine Lauflänge von [TIME].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium's content has a duration of [TIME].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium's content has a duration of [MIN]'[SEC].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Inhalt des Mediums hat eine Lauflänge von [MIN]'[SEC].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium's content has a duration of [MIN]'[SEC].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[MIN]'[SEC].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[MIN]'[SEC].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[MIN]'[SEC].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

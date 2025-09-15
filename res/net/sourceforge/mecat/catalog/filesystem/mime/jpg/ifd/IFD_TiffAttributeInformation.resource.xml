@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">_</Title>
+			<Translation TYPE="SINGLEVAL" language="en"></Translation>
+		</I18N>
+		<Compression_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</Compression_Languages>
+		<Compression>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">uncompressed</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">unkomprimiert</Translation>
+		</Compression>
+		<Compression>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">JPEG</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">JPEG</Translation>
+		</Compression>
+		<PhotometricInterpretation_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</PhotometricInterpretation_Languages>
+		<PhotometricInterpretation>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">RGB</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">RGB</Translation>
+		</PhotometricInterpretation>
+		<PhotometricInterpretation>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">YCbCr</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">YCbCr</Translation>
+		</PhotometricInterpretation>
+		<Orientation_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</Orientation_Languages>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is at the visual top of the image, and the 0th column is the visual left-hand side.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am oberen Rand und die 0te Reihe am linken Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is at the visual top of the image, and the 0th column is the visual right-hand side.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am oberen Rand und die 0te Reihe am rechten Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is at the visual bottom of the image, and the 0th column is the visual right-hand side.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am unteren Rand und die 0te Reihe am rechten Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is at the visual bottom of the image, and the 0th column is the visual left-hand side.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am unteren Rand und die 0te Reihe am linken Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is the visual left-hand side of the image, and the 0th column is the visual top.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am linken Rand und die 0te Reihe am oberen Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is the visual right-hand side of the image, and the 0th column is the visual top.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am rechten Rand und die 0te Reihe am oberen Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">7</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is the visual right-hand side of the image, and the 0th column is the visual bottom.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am rechten Rand und die 0te Reihe am unteren Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<Orientation>
+			<Title TYPE="SINGLEVAL">8</Title>
+			<Translation TYPE="SINGLEVAL" language="en">The 0th row is the visual left-hand side of the image, and the 0th column is the visual bottom.</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Die 0te Zeil ist am linken Rand und die 0te Reihe am unteren Rand des sichtaren Bildes.</Translation>
+		</Orientation>
+		<PlanarConfiguration_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</PlanarConfiguration_Languages>
+		<PlanarConfiguration>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">chunky format</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">gestückeltes Format</Translation>
+		</PlanarConfiguration>
+		<PlanarConfiguration>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">planar format</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">planares Format</Translation>
+		</PlanarConfiguration>
+		<YCbCrSubSampling_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</YCbCrSubSampling_Languages>
+		<YCbCrSubSampling>
+			<Title TYPE="SINGLEVAL">2,1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">YCbCr4:2:2</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">YCbCr4:2:2</Translation>
+		</YCbCrSubSampling>
+		<YCbCrSubSampling>
+			<Title TYPE="SINGLEVAL">2,2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">YCbCr4:2:0</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">YCbCr4:2:0</Translation>
+		</YCbCrSubSampling>
+		<YCbCrPositioning_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</YCbCrPositioning_Languages>
+		<YCbCrPositioning>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">centered</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">zentiert</Translation>
+		</YCbCrPositioning>
+		<YCbCrPositioning>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">co-sited</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">zusammliegend</Translation>
+		</YCbCrPositioning>
+		<ResolutionUnit_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</ResolutionUnit_Languages>
+		<ResolutionUnit>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">inches</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Inch</Translation>
+		</ResolutionUnit>
+		<ResolutionUnit>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">centimeters</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Zentimeter</Translation>
+		</ResolutionUnit>
+	</Options>
+</Catalog>

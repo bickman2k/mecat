@@ -1,0 +1,215 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <Print>
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.NamedExportProfile</ClassName>
+      <Name TYPE="SINGLEVAL" language="de" >Drucken</Name>
+      <Name TYPE="SINGLEVAL" language="en" >Print</Name>
+      <Name TYPE="SINGLEVAL" language="fr" >Imprimer</Name>
+      <ArgumentNumber TYPE="SINGLEVAL">2</ArgumentNumber>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.ExportProfile</Type>
+        <Instance TYPE="SUBNODE" >
+          <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.LaTeXExportProfile</ClassName>
+          <MultiChoiceFeature TYPE="SINGLEVAL" >Genre</MultiChoiceFeature>
+          <Argument TYPE="SUBNODE" >
+            <Number TYPE="SINGLEVAL" >0</Number>
+            <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+            <Value TYPE="SINGLEVAL" >true</Value>
+          </Argument>
+          <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+          <Column TYPE="SUBNODE" >
+            <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportCol</ClassName>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >0</Number>
+              <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXMeasurement</Type>
+              <Instance TYPE="SUBNODE" >
+                <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXMeasurement</ClassName>
+                <Argument TYPE="SUBNODE" >
+                  <Number TYPE="SINGLEVAL" >0</Number>
+                  <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXMeasurementType</Type>
+                  <Value TYPE="SINGLEVAL" >NOLINEBREAK</Value>
+                </Argument>
+                <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+                <Argument TYPE="SUBNODE" >
+                  <Number TYPE="SINGLEVAL" >1</Number>
+                  <Type TYPE="SINGLEVAL" >java.lang.Double</Type>
+                  <Value TYPE="SINGLEVAL" >0.0</Value>
+                </Argument>
+              </Instance>
+            </Argument>
+            <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+            <Item TYPE="SUBNODE" >
+              <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDef</ClassName>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >0</Number>
+                <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+                <Value TYPE="SINGLEVAL" >$[$</Value>
+              </Argument>
+              <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+            </Item>
+            <Item TYPE="SUBNODE" >
+              <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDef</ClassName>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >0</Number>
+                <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+                <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Location</Value>
+              </Argument>
+              <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >1</Number>
+                <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDefType</Type>
+                <Value TYPE="SINGLEVAL" >SHORT</Value>
+              </Argument>
+            </Item>
+            <Item TYPE="SUBNODE" >
+              <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDef</ClassName>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >0</Number>
+                <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+                <Value TYPE="SINGLEVAL" >, </Value>
+              </Argument>
+              <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+            </Item>
+            <Item TYPE="SUBNODE" >
+              <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDef</ClassName>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >0</Number>
+                <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+                <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Position</Value>
+              </Argument>
+              <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >1</Number>
+                <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDefType</Type>
+                <Value TYPE="SINGLEVAL" >SHORT</Value>
+              </Argument>
+            </Item>
+            <Item TYPE="SUBNODE" >
+              <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDef</ClassName>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >0</Number>
+                <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+                <Value TYPE="SINGLEVAL" >$]$</Value>
+              </Argument>
+              <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+            </Item>
+          </Column>
+          <Column TYPE="SUBNODE" >
+            <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportCol</ClassName>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >0</Number>
+              <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXMeasurement</Type>
+              <Instance TYPE="SUBNODE" >
+                <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXMeasurement</ClassName>
+                <Argument TYPE="SUBNODE" >
+                  <Number TYPE="SINGLEVAL" >0</Number>
+                  <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXMeasurementType</Type>
+                  <Value TYPE="SINGLEVAL" >VARLEN</Value>
+                </Argument>
+                <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+                <Argument TYPE="SUBNODE" >
+                  <Number TYPE="SINGLEVAL" >1</Number>
+                  <Type TYPE="SINGLEVAL" >java.lang.Double</Type>
+                  <Value TYPE="SINGLEVAL" >0.0</Value>
+                </Argument>
+              </Instance>
+            </Argument>
+            <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+            <Item TYPE="SUBNODE" >
+              <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDef</ClassName>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >0</Number>
+                <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+                <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Title</Value>
+              </Argument>
+              <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+              <Argument TYPE="SUBNODE" >
+                <Number TYPE="SINGLEVAL" >1</Number>
+                <Type TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.latex.list.LaTeXExportDefType</Type>
+                <Value TYPE="SINGLEVAL" >SHORT</Value>
+              </Argument>
+            </Item>
+          </Column>
+          <PDFExport TYPE="SUBNODE" >
+            <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.ExportToFilePanel</ClassName>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >0</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+              <Value TYPE="SINGLEVAL" >PDF</Value>
+            </Argument>
+            <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >1</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+              <Value TYPE="SINGLEVAL" >false</Value>
+            </Argument>
+          </PDFExport>
+          <PSExport TYPE="SUBNODE" >
+            <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.ExportToFilePanel</ClassName>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >0</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+              <Value TYPE="SINGLEVAL" >PostScript</Value>
+            </Argument>
+            <ArgumentNumber TYPE="SINGLEVAL" >3</ArgumentNumber>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >1</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+              <Value TYPE="SINGLEVAL" >ps</Value>
+            </Argument>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >2</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+              <Value TYPE="SINGLEVAL" >false</Value>
+            </Argument>
+          </PSExport>
+          <LaTeXExport TYPE="SUBNODE" >
+            <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.ExportToFilePanel</ClassName>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >0</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+              <Value TYPE="SINGLEVAL" >LaTeX</Value>
+            </Argument>
+            <ArgumentNumber TYPE="SINGLEVAL" >3</ArgumentNumber>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >1</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+              <Value TYPE="SINGLEVAL" >tex</Value>
+            </Argument>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >2</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+              <Value TYPE="SINGLEVAL" >false</Value>
+            </Argument>
+          </LaTeXExport>
+          <DVIExport TYPE="SUBNODE" >
+            <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.export.ExportToFilePanel</ClassName>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >0</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+              <Value TYPE="SINGLEVAL" >DVI</Value>
+            </Argument>
+            <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+            <Argument TYPE="SUBNODE" >
+              <Number TYPE="SINGLEVAL" >1</Number>
+              <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+              <Value TYPE="SINGLEVAL" >false</Value>
+            </Argument>
+          </DVIExport>
+          <PaperSize TYPE="SINGLEVAL" >a4paper</PaperSize>
+          <DocumentClass TYPE="SINGLEVAL" >article</DocumentClass>
+          <FontSize TYPE="SINGLEVAL" >10pt</FontSize>
+          <MultiChoiceFeatureMaxChoices TYPE="SINGLEVAL" >5</MultiChoiceFeatureMaxChoices>
+        </Instance>
+      </Argument>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >1</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+        <Value TYPE="SINGLEVAL" >Print</Value>
+      </Argument>
+    </Print>
+  </Options>
+</Catalog>

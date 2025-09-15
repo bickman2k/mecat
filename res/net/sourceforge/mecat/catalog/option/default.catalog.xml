@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+    <CoverImages_ImageOption>
+      <isDirStorage TYPE="SINGLEVAL">False</isDirStorage>
+    </CoverImages_ImageOption>
+    <Override>
+      <Location TYPE="SINGLEVAL">True</Location>
+      <AccesoirType TYPE="SINGLEVAL">True</AccesoirType>
+      <Format TYPE="SINGLEVAL">True</Format>
+    </Override>
+    <Format_Resource_Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+    </Format_Resource_Languages>
+    <Format_Resource>
+      <Title TYPE="SINGLEVAL">A4</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Din A4 Schriftstück</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Din A4 paper</Translation>
+    </Format_Resource>
+    <Format_Resource>
+      <Title TYPE="SINGLEVAL">A5</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Din A5 Schriftstück</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Din A5 paper</Translation>
+    </Format_Resource>
+    <Format_Resource>
+      <Title TYPE="SINGLEVAL">NoDin</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schriftstück in Sonderformat</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Paper in special format</Translation>
+    </Format_Resource>
+    <Format_Resource>
+      <Title TYPE="SINGLEVAL">CDDVD</Title>
+      <Translation TYPE="SINGLEVAL" language="de">CD/DVD</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">CD/DVD</Translation>
+    </Format_Resource>
+    <Format_Resource>
+      <Title TYPE="SINGLEVAL">Object</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Objekt</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Object</Translation>
+    </Format_Resource>
+    <AccessoirType_Resource_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+    </AccessoirType_Resource_Languages>
+    <AccessoirType_Resource>
+      <Title TYPE="SINGLEVAL">Handbook</Title>
+      <Translation TYPE="SINGLEVAL" language="en">Handbook</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Handbuch</Translation>
+    </AccessoirType_Resource>
+    <AccessoirType_Resource>
+      <Title TYPE="SINGLEVAL">Garantie</Title>
+      <Translation TYPE="SINGLEVAL" language="en">Warranty</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Garantie</Translation>
+    </AccessoirType_Resource>
+    <AccessoirType_Resource>
+      <Title TYPE="SINGLEVAL">Driver</Title>
+      <Translation TYPE="SINGLEVAL" language="en">Driver</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Treiber</Translation>
+    </AccessoirType_Resource>
+  </Options>
+</Catalog>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Changed one ClassName in the catalog while transforming to version [VERSION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ein ClassName wurde im Katalog geändert während der Transformation zu Version [VERSION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Changed one ClassName in the catalog while transforming to version [VERSION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Changed [NUMBER] of ClassNames in the catalog while transforming to version [VERSION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[NUMBER] ClassName wurden im Katalog geändert während der Transformation zu Version [VERSION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Changed [NUMBER] of ClassNames in the catalog while transforming to version [VERSION].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

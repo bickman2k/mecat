@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Year</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Jahr</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Year</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The year is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Jahr wurde nicht eingestellt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The year is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium's content was produced in [YEAR].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Inhalt des Mediums wurde [YEAR] produziert.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium's content was produced in [YEAR].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

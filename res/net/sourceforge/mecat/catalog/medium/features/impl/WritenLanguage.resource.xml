@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">WritenLanguage</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schriftsprache</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Written language</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">WritenLanguages</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schriftsprachen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Written languages</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has no [ATTRIBUTENAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Schriftsprache ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The written language is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [NUMBER] [ATTRIBUTENAME]s [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die [NUMBER] Schriftsprachen [SELECTION] sind vorhanden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The [NUMBER] written languages [SELECTION] are available.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [ATTRIBUTENAME] [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Schriftsprache ist [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The written language is [SELECTION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The [ATTRIBUTENAME] is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Schriftsprache ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The written language is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The [ATTRIBUTENAME] is [CHOICE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Schriftsprache ist [CHOICE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The written language is [CHOICE].</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

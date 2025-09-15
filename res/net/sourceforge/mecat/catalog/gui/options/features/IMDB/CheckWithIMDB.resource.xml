@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">title</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Titel</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">title</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">aka for language [language]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Alias für [language]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">aka for language [language]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Aka for language [language]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Alias für [language]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Aka for language [language]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Local [title/aka] "[local name of movie]" does not match "[imdb name of movie]" from the imdb.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lokaler [title/aka] "[local name of movie]" ist nicht gleich zu "[imdb name of movie]" von der IMDB.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Local [title/aka] "[local name of movie]" does not match "[imdb name of movie]" from the imdb.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Local year "[local year]" is different then "[imdb year]" from the imdb.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lokales Jahr "[local year]" is nicht gleich "[imdb year]" von der IMDB.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Local year "[local year]" is different then "[imdb year]" from the imdb.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Local genres "[local genres]" are different then "[imdb genres]" from the imdb.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lokale Genre "[local genres]" sind nicht gleich zu "[imdb genres]" von der IMDB.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Local genres "[local genres]" are different then "[imdb genres]" from the imdb.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[title/aka] "[local name of movie]" onyl exists for the local entry.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[title/aka] "[local name of movie]" existiert nur Lokal.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[title/aka] "[local name of movie]" onyl exists for the local entry.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[title/aka] "[imdb name of movie]" onyl exists in imdb.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[title/aka] "[imdb name of movie]" existiert nur in der IMDB.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[title/aka] "[imdb name of movie]" onyl exists in imdb.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Change language of ([language]) [name of movie] to english?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Soll die Sprache von ([language]) [name of movie] auf Englisch gestellt werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Change language of ([language]) [name of movie] to english?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Correct trivial difference [title/aka] from "[local name of movie]" to "[imdb name of movie]"?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Soll der triviale Unterschied vom [title/aka] von "[local name of movie]" zu "[imdb name of movie]" geändert werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Correct trivial difference [title/aka] from "[local name of movie]" to "[imdb name of movie]"?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace [title/aka] "[local name of movie]" with "[imdb name of movie]"?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Soll [title/aka] "[local name of movie]" durch "[imdb name of movie]" ersetzt werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace [title/aka] "[local name of movie]" with "[imdb name of movie]"?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace year "[local year]" with "[imdb year]" from imdb?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Soll das Jahr von "[local year]" auf "[imdb year]" gesetzt werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace year "[local year]" with "[imdb year]" from imdb?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace genres "[local genres]" with "[imdb genres]" from imdb?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sollen die Genre "[local genres]" durch "[imdb genres]" von der IMDB ersetzt werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace genres "[local genres]" with "[imdb genres]" from imdb?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove [title/aka] "[local name of movie]"?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Soll [title/aka] "[local name of movie]" entfernt werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove [title/aka] "[local name of movie]"?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add missing [title/aka] "[imdb name of movie]"?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Soll [title/aka] "[imdb name of movie]" hinzugefügt werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add missing [title/aka] "[imdb name of movie]"?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Proceed "[name of movie]" [offset]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bearbeite "[name of movie]" [offset]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Proceed "[name of movie]" [offset]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Trivial difference ignored)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Trivialer Unterschied ignoriert)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Trivial difference ignored)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied correction of trivial difference of [title/aka])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert die Korrektur der trivialen Unterschiede vom [title/aka])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied correction of trivial difference of [title/aka])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied replacement of [title/aka])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert die Ersetzung vom [title/aka])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied replacement of [title/aka])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied language correction to english)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert die Korrektur der Sprache nach Englisch)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied language correction to english)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied removale of aka)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert die Entfernung des Alias)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied removale of aka)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied addition of aka)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert das Hinzufügen des Alias)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied addition of aka)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied replacement of year)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert die Ersetzung des Jahrs)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied replacement of year)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User denied replacement of genres)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer verweigert die Ersetzung der Genre)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User denied replacement of genres)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed replacement of [title/aka])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubte die Ersetzung vom [title/aka])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed replacement of [title/aka])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed correction of trivial difference of [title/aka])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubt die Korrektur der trivialen Unterschiede vom [title/aka])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed correction of trivial difference of [title/aka])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed language correction to english)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubt die Korrektur der Sprache nach Englisch)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed language correction to english)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed removale of aka)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubt die Entfernung des Alias)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed removale of aka)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed addition of aka)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubt das Hinzufügen des Alias)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed addition of aka)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed replacement of year)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubt die Ersetzung des Jahrs)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed replacement of year)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(User allowed replacement of genres)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Benutzer erlaubt die Ersetzung der Genre)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(User allowed replacement of genres)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Autocorrect trivial difference of [title/aka])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Autokorrektur der trivialen Unterschiede vom [title/aka])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Autocorrect trivial difference of [title/aka])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Auto replace [title/aka])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Automatische Ersetzung vom [title/aka])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Auto replace [title/aka])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Autocorrect language to english)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Autokorrektur der Sprache nach Englisch)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Autocorrect language to english)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Autocorrect year)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Autokorrektur des Jahres)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Autocorrect year)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Autocorrect genres)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Autokorrektur der Genre)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Autocorrect genres)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Auto remove aka)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Automatische Entfernung des Alias)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Auto remove aka)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Auto add aka)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Automatisches Hinzufügen des Alias)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Auto add aka)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Correction of [title/aka] failed)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Korrektur vom [title/aka] ist fehlgeschlagen)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Correction of [title/aka] failed)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Did not change year)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Jahr wurde nicht geändert)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Did not change year)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">(Did not change genres)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">(Genre wurden nicht geändert)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">(Did not change genres)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Found differences.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Unterschiede Gefunden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Found differences.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No differences.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Unterschiede.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No differences.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No differences from the IMDB where found.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es wurden keine Unterschiede zur IMDB gefunden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No differences from the IMDB where found.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">IMDBTitleNumber</Title>
+      <Translation TYPE="SINGLEVAL" language="de">IMDB-Nummer</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">IMDB-number</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The reference number to the imdb is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Referenznummer für die imdb is nicht gesetzt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The reference number to the imdb is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The number for the movie at the imdb is NUMBER.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die IMDB-Nummer für den Film ist [NUMBER].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The number for the movie at the imdb is [NUMBER].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Use year</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Benutze Jahr</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Use year</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Use genres</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bentuze Genre</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">use genres</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Can't search without title!</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche ohne Angabe von Titel nicht möglich!</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Can't search without title!</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Options used to search</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigentschaften für die Suche</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Options used to search</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not get the number from URL.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Konnte die Nummer nicht finden in [URL].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not get the number from [URL].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Error most likely caused by wrong IMDB number.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler wird wahrscheinlich durch fehlerhafte IMDB Nummer verursacht.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Error most likely caused by wrong IMDB number.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Error most likely caused by error in connection to imdb webcite.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler wird wahrscheinlich durch fehlerhafte Verbindung zur IMDB-Webseite verursacht.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Error most likely caused by error in connection to imdb website.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Error</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Error</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check with IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Abgleich mit IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check with IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Move comma separated article from german title.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Verschiebe durch Komma getrennten Artikel im deutschen Titel zum Titelanfang.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Move comma separated article from german title.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove surrounding quotes.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Entferne umgebende Anführungszeichen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove surrounding quotes.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take IMDB number</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm IMDB-Nummer</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take IMDB number</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take english title</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm englischen Titel</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take english title</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take akas</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Alias</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take akas</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take year</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Jahr</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take year</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take runtime</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Laufzeit</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take runtime</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take genres</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Genres</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take genres</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take summary</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Zusammenfassung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take summary</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take front image</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Frontbild</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take front image</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take actors</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernimm Schauspieler</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take actors</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Take information along.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Übernehmen der Informationen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Take information along.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Copy information from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Information von der IMDB kopieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Copy information from IMDB</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

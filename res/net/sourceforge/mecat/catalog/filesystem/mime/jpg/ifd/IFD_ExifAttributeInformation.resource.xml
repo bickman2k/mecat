@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">_</Title>
+			<Translation TYPE="SINGLEVAL" language="en"></Translation>
+		</I18N>
+		<FlashpixVersion_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</FlashpixVersion_Languages>
+		<FlashpixVersion>
+			<Title TYPE="SINGLEVAL">48, 49, 48, 48</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flashpix Format Version 1.0</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Flashpix Format Version 1.0</Translation>
+		</FlashpixVersion>
+		<ColorSpace_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</ColorSpace_Languages>
+		<ColorSpace>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">sRGB</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">sRGB</Translation>
+		</ColorSpace>
+		<ColorSpace>
+			<Title TYPE="SINGLEVAL">65535</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Uncalibrated</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Unkalibriert</Translation>
+		</ColorSpace>
+	</Options>
+</Catalog>

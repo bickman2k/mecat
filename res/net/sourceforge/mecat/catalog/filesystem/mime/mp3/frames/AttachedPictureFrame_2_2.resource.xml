@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+	  <I18N_Languages>
+		  <Languages TYPE="MULTIVAL">en</Languages>
+	  </I18N_Languages>
+<I18N>
+	<Title TYPE="SINGLEVAL">PIC</Title>
+	<Translation TYPE="SINGLEVAL" language="en">
+   The 'Attached picture' frame contains a picture directly related to the audio file.
+   Image format is preferably "PNG" [PNG] or "JPG" [JFIF]. Description
+   is a short description of the picture, represented as a terminated
+   textstring. The description has a maximum length of 64 characters,
+   but may be empty. There may be several pictures attached to one file,
+   each in their individual "PIC" frame, but only one with the same
+   content descriptor. There may only be one picture with the picture
+   type declared as picture type $01 and $02 respectively. There is a
+   possibility to put only a link to the image file by using the 'image
+   format' "-->" and having a complete URL [URL] instead of picture data.
+   The use of linked files should however be used restrictively since
+   there is the risk of separation of files.
+	</Translation>
+</I18N>
+  </Options>
+</Catalog>

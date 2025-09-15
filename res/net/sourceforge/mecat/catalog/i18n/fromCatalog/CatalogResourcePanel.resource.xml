@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add Key</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schlüssel hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add key</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Add Language</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Sprache hinzufügen</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Add language</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">ERROR</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">FEHLER</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">ERROR</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Key</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Schlüssel</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Key</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Key for the new Entry.</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Schlüssel für die neue Möglichkeit.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Key for the new possibility.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Translation</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Übersetzung</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Translation</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <FeatureOption TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ChoiceFeatureOption</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+        <Value TYPE="SINGLEVAL" >Format_Resource</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      <Format_Resource_Languages TYPE="SUBNODE" >
+      </Format_Resource_Languages>
+    </FeatureOption>
+    <FeatureValidator TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.validators.ChoiceFeatureValidator</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+        <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Format</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+    </FeatureValidator>
+    <FeatureOptionMerger TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.merger.choiceFeature.ChoiceFeatureMerger</ClassName>
+      <ArgumentNumber TYPE="SINGLEVAL" >0</ArgumentNumber>
+    </FeatureOptionMerger>
+  </Options>
+</Catalog>

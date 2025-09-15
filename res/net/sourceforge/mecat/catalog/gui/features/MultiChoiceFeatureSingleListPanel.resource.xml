@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add choice</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Möglichkeit hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add choice</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Chose the choice you want to add</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Möglichkeit wählen die hinzugefügt werden soll</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Chose the choice you want to add</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

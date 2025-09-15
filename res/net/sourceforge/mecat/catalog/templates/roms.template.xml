@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+    <Template_Media>
+      <Medium TYPE="MULTIVAL">DvdRom</Medium>
+      <Medium TYPE="MULTIVAL">CdRom</Medium>
+      <Medium TYPE="MULTIVAL">VirtualRom</Medium>
+    </Template_Media>
+  	<Template_Resource_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</Template_Resource_Languages>
+    <Template_Resource>
+      <Title TYPE="SINGLEVAL">Title</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Liste für ROMs</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List for ROMs</Translation>
+    </Template_Resource>
+    <Template_Resource>
+      <Title TYPE="SINGLEVAL">TitleHTML</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Liste für &lt;br&gt; ROMs</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List for &lt;br&gt; ROMs</Translation>
+    </Template_Resource>
+    <Template_Resource>
+      <Title TYPE="SINGLEVAL">Description</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eine Liste von ROM katalogisiert nur lesen Datenträger wie DVD-Roms und CD-Roms.
+      Dabei ist es auch möglich eine virtuellen Datenträger anzulegen um die realen Datenträger darin zu sortieren.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">A list of ROM catalogs ready only data storage like DVD-Roms and CD-Roms.
+      It is also possible to create a virtual rom that can be used to sort the real ones into it.</Translation>
+    </Template_Resource>
+
+    <CoverImages_ImageOption>
+      <isDirStorage TYPE="SINGLEVAL">False</isDirStorage>
+    </CoverImages_ImageOption>
+    <Override>
+      <Location TYPE="SINGLEVAL">True</Location>
+      <AccesoirType TYPE="SINGLEVAL">False</AccesoirType>
+      <Format TYPE="SINGLEVAL">False</Format>
+    </Override>
+  </Options>
+</Catalog>

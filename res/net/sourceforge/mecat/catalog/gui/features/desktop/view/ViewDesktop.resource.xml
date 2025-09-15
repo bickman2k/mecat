@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">view</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Betrachten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">View</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No medium selected.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein Medium ausgewählt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No medium selected.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Show file list</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zeige Dateiliste</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Show file list</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

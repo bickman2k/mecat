@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<Song>
+      <Visible TYPE="SINGLEVAL">false</Visible>
+      <net.sourceforge.mecat.catalog.gui.features.desktop.view.ViewDesktop TYPE="SUBNODE">
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.impl.Artist
+      	</Hidden>
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.impl.AudioLanguages
+      	</Hidden>
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.impl.Position
+      	</Hidden>
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.impl.Title
+      	</Hidden>
+      </net.sourceforge.mecat.catalog.gui.features.desktop.view.ViewDesktop>
+  	</Song>
+  </Options>
+</Catalog>

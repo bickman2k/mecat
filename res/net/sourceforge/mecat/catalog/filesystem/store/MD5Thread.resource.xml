@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Error while computing md5 hash sum for [FILE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler beim Berechnen des MD5 Prüfwertes für [FILE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Error while computing md5 hash sum for [FILE].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">MD5 hash computation interupted.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Berechnung des MD5 Hashwert unterbrochen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">MD5 hash computation interupted.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

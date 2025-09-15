@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Driver:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Treiber:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Driver:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Data Source Name (DSN):</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name der Quelldatenbank (DSN):</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Data Source Name (DSN):</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Username:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Benutzername:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Username:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Password:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Passwort:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Password:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Driver class name, ex. sun.jdbc.odbc.JdbcOdbcDriver</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name der Treiberklasse, zB. sun.jdbc.odbc.JdbcOdbcDriver</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Driver class name, ex. sun.jdbc.odbc.JdbcOdbcDriver</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Name of the Data Source to be reached</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name der zu benutzenden Datenquelle</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Name of the Data Source to be reached</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Username to establish connection</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Benutzername mit dem die Verbindung aufgebaut wird</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Username to establish connection</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Password for the spezified Username</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Passwort welches zum Benutzernamen gehört</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Password for the spezified Username</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Connection</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Verbindung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Connection</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The four options in this Pane define the connection.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die vier Eigenschaften in diesem Kästchen bestimmen die Verbindung.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The four options in this Pane define the connection.</Translation>
+    </I18N>
+  </Options>
+</Catalog>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Genre</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Genre</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Genre</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has no [ATTRIBUTENAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Genre ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The genre is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [NUMBER] [ATTRIBUTENAME]s [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die [NUMBER] Genres sind [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The [NUMBER] genres are [SELECTION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [ATTRIBUTENAME] [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Genre ist [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The genre is [SELECTION].</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

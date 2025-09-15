@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose medium</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle Medium</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose medium</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

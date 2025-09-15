@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Name</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Name</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The name is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Name ist nicht angegeben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The name is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The person's name is [NAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Person trägt den Name [NAME].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The person's name is [NAME].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

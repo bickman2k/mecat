@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The filter you chose is broken.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der gewählte Filter funktioniert nicht.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The filter you chose is broken.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Broken Filter.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehlerhafter Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Broken Filter</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Verify</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Überprüfen</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Verify</Translation>
+    </I18N>
+  </Options>
+</Catalog>

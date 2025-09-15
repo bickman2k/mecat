@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">MultiChoiceFeature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Feature mit Mehrfachauswahl</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Feature with multiple choice</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has no [ATTRIBUTENAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium hat kein [ATTRIBUTENAME].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium has no [ATTRIBUTENAME].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [NUMBER] [ATTRIBUTENAME]s [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium hat die [NUMBER] [ATTRIBUTENAME] [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium has the [NUMBER] [ATTRIBUTENAME]s [SELECTION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [ATTRIBUTENAME] [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium hat das [ATTRIBUTENAME] [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium has the [ATTRIBUTENAME] [SELECTION].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

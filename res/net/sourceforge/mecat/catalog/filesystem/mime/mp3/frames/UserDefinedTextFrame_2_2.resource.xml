@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+	  <I18N_Languages>
+		  <Languages TYPE="MULTIVAL">en</Languages>
+	  </I18N_Languages>
+<I18N>
+	<Title TYPE="SINGLEVAL">TXX</Title>
+	<Translation TYPE="SINGLEVAL" language="en">
+   The 'User defined text information' frame is intended for one-string text information concerning the
+   audiofile in a similar way to the other "T"xx frames. The frame body
+   consists of a description of the string, represented as a terminated
+   string, followed by the actual string. There may be more than one
+   "TXX" frame in each tag, but only one with the same description.
+	</Translation>
+</I18N>
+  </Options>
+</Catalog>

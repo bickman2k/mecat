@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">FoundClasses</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUM_FEATURE] Features, [NUM_MEDIA] Medien, [NUM_TAGFINDER] Tagfinder, [NUM_EXPORT] Exporte, [NUM_IMPORT] Importe, [NUM_DATAMANAGEMENT] Datamanagementsysteme, [NUM_DESKTOP] Arbeitsoberflächen und [NUM_TEMPLATES] Katalogvorlagen für Features gefunden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Found [NUM_FEATURE] features, [NUM_MEDIA] media, [NUM_TAGFINDER] Tagfinder, [NUM_EXPORT] exports, [NUM_IMPORT] imports, [NUM_DATAMANAGEMENT] datamanagement systems, [NUM_DESKTOP] desktop and [NUM_TEMPLATES] catalog templates.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">SearchImplementation</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche nach Implementierungen von Feature, Medium, Filter, Export und Datamanagementsystem.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search for implementations of feature, medium, filter, export and datamanagement system.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForWanted</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach "[WANTED]".</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for '[WANTED]'.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForFeature</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach Features.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for features.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForMedia</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach Medien.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for media.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForImports</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach Importen.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for imports.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForTagFinder</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach Tagfinder.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for tagfinder.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForFilter</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach Filtern.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for filters.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirForTemplates</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Durchsuche den Ordner [DIR] nach Katalogvorlagen.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Investigating directory [DIR] for catalog templates.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">DirDoesNotExist</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Der Ordner [DIR] existiert nicht.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">The directory [DIR] does not exist.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FileNoDir</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">[FILE] is kein Ordner.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">[FILE] is not a directory.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundFeature</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Features gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] features.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundMedia</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Medien gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] media.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundTagFinder</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Tagfinder gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] tagfinder.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundFilter</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Filter gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] filters.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundTemplates</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Katalogvorlagen gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] catalog templates.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundImport</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Importe gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] imports.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundExportProfiles</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] Exportprofile gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] export profiles.</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">FoundWanted</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es wurden [NUMBER] von "[WANTED]" gefunden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Found [NUMBER] of '[WANTED]'.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Investigating directory</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Untersuche Ordner</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Investigating directory</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Investigating file:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Untersuche Datei:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Investigating file:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">will not be investigated</Title>
+      <Translation TYPE="SINGLEVAL" language="de">wird nicht untersucht</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">will not be investigated</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">CouldNotCreateDir</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Der Ordner [DIR] konnte nicht angelegt werden.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Could not create the directory [DIR].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Loading preferences</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lade Eigenschaften</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Loading preferences</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

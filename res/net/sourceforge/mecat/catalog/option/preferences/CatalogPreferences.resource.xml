@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Preferences</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaften des Katalogs</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Preferences of the catalog</Translation>
+    </I18N>
+  </Options>
+</Catalog>

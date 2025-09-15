@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There is no translation at all.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es gibt keine Übersetzung.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There is no translation at all.</Translation>
+    </I18N>
+    <I18N>
+	  <Title TYPE="SINGLEVAL">There is no translation for the key "[KEY]". Using the key itself instead.</Title>
+	  <Translation TYPE="SINGLEVAL" language="de">Es gibt keine Übersetzung für den Schlüssel "[KEY]". Benutze stattdessen den Schlüssel.</Translation>
+	  <Translation TYPE="SINGLEVAL" language="en">There is no translation for the key "[KEY]". Using the key itself instead.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

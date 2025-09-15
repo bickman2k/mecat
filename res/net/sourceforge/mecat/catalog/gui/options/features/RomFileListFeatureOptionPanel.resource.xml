@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Position of the file tree storage directory:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lagerungsort für die Dateilisten:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Position of the file tree storage directory:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Compute MD5 hash value</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Berechne MD5 Hashwert</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Compute MD5 hash value</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

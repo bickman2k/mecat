@@ -1,0 +1,46 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <FeatureOption TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.MultiImageFeatureOption</ClassName>
+      <ArgumentNumber TYPE="SINGLEVAL" >0</ArgumentNumber>
+      <Shared TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ImageFeatureOption</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+          <Value TYPE="SINGLEVAL" >Shared</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </Shared>
+      <ImageOption TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ImageFeatureOption</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+          <Value TYPE="SINGLEVAL" >Front</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </ImageOption>
+      <ImageOption TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ImageFeatureOption</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+          <Value TYPE="SINGLEVAL" >Spine</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </ImageOption>
+      <ImageOption TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ImageFeatureOption</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+          <Value TYPE="SINGLEVAL" >Back</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </ImageOption>
+    </FeatureOption>
+  </Options>
+</Catalog>

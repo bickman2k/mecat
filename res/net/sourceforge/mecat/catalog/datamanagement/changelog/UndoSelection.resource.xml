@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Undo</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Rückgängig machen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Undo</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Undo [START]-[END]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[START] bis [END] rückgängig machen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Undo [START]-[END]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Select the first step to be undone.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erster Schritt der rückgängig gemacht werden soll.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Select the first step to be undone.</Translation>
+    </I18N>
+  </Options>
+</Catalog>

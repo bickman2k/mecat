@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create new [TYPE] and create a link.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle und verlinke [TYPE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create new [TYPE] and create a link.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create new [TYPE] in catalog [CATALOG] and create a link.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle und verlinke [TYPE] im Katalog [CATALOG].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create new [TYPE] in catalog [CATALOG] and create a link.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create link to [TYPE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Verlinke [TYPE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create link to [TYPE].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

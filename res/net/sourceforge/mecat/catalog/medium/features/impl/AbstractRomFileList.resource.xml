@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There is no file list stored for this medium.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Für dieses Medium ist keine Dateiliste vorhanden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There is no file list stored for this medium.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There is only the root directory.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es gibt nur das Hauptverzeichnis.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There is only the root directory.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There is one file in the root directory.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es gibt eine Datei im Hauptverzeichnis.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There is one file in the root directory.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There are [FILES] files in the root directory.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es liegen [FILES] Dateien im Hauptverzeichnis.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There are [FILES] files in the root directory.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There are [DIRS] directories, but no file.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es gibt [DIRS] Vezeichnisse, aber nicht eine Datei.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There are [DIRS] directories, but no file.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There are [DIRS] directories and one file.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es gibt [DIRS] Verzeichnisse und eine Datei.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There are [DIRS] directories and one file.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There are [DIRS] directories and [FILES] files.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es gibt [DIRS] Verzeichnisse und [FILES] Dateien.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There are [DIRS] directories and [FILES] files.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No file list.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Dateiliste.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No file list.</Translation>
+    </I18N>
+
+  </Options>
+<Entrys></Entrys></Catalog>

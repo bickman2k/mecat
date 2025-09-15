@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No filter</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No filter</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No sorting</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Current language</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Jetztige Sprache</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Current language</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

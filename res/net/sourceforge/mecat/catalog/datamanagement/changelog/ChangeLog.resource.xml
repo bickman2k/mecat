@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Main</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Haupt</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Main</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">All transaction need to be closed. [TRANSACTION] still open.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Alle Transaktionen müssen beendet sein. [TRANSACTION] ist noch offen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">All transaction need to be closed. [TRANSACTION] still open.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Transaction error (Id:[ID], Name:[NAME], Atom:[ATOM], UserInvoked:[USER])</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Transaktionsfehler (Id:[ID], Name:[NAME], Atom:[ATOM], UserInvoked:[USER])</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Transaction error (Id:[ID], Name:[NAME], Atom:[ATOM], UserInvoked:[USER])</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Saveing prevented.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Speichern verhindert.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Saveing prevented.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Will not save, because catalog [CONNECTION] would not be saved. Check your permission.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es wird nicht gespeichert da der Katalog [CONNECTION] nicht gespeichert würde. Überprüfen sie die entsprechenden Berechtigungen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Will not save, because catalog [CONNECTION] would not be saved. Check your permission.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Error while saving.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler während des Speicherns.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Error while saving.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The catalog [CONNECTION] could not be saved. Check your permission.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Katalog [CONNECTION] konnte nicht gespeichert werden. Überprüfen sie die entsprechenden Berechtigungen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The catalog [CONNECTION] could not be saved. Check your permission.</Translation>
+    </I18N>
+  </Options>
+</Catalog>

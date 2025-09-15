@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">ID3V2.[VERSION] at [POS].</Title>
+			<Translation TYPE="SINGLEVAL" language="de">ID3V2.[VERSION] bei [POS].</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">ID3V2.[VERSION] at [POS].</Translation>
+		</I18N>
+	</Options>
+</Catalog>

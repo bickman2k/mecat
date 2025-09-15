@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Log error. Catalog event type [TYPE] is not handled properly.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Logfehler. Der Katalog-Ereignistyp [TYPE] wurde nicht sauber verarbeitet.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Log error. Catalog event type [TYPE] is not handled properly.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Log error. Set attribute event type [TYPE] is not handled properly.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Logfehler. Der Mengenattribut-Ereignistyp [TYPE] wurde nicht sauber verarbeitet.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Log error. Set attribute event type [TYPE] is not handled properly.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Log error. Sub entry attribute event type [TYPE] is not handled properly.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Logfehler. Der Untereintrag-Ereignistyp [TYPE] wurde nicht sauber verarbeitet.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Log error. Sub entry event type [TYPE] is not handled properly.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Log error. Catalog event [EVENT] is not handled properly.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Logfehler. Das Katalog-Ereignis [EVENT] wurde nicht sauber verarbeitet.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Log error. Catalog event [EVENT] is not handled properly.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Catalog entry added [NAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalogeintrag [NAME] hinzugefügt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Catalog entry added [NAME].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Catalog entry removed [ENTRY].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalogeintrag [ENTRY] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Catalog entry removed [ENTRY].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Catalog entries with the name [NAME] removed.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalogeinträge mit dem Namen [NAME] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Catalog entries with the name [NAME] removed.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Catalog option added [NAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalogeigenschaft [NAME] hinzugefügt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Catalog option added [NAME].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Catalog option removed [ENTRY].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalogeigenschaft [ENTRY] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Catalog option removed [ENTRY].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Catalog options with the name [NAME] removed.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalogeigenschaft mit dem Namen [NAME] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Catalog options with the name [NAME] removed.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The entry [ENTRY] has been cleared.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Eintrag [ENTRY] wurde gesäubert.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The entry [ENTRY] has been cleared.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Attribute [ATTRIBUTE] for the entry [ENTRY] has changed for the language [LANGUAGE] from [OLD] to [NEW].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Attribut [ATTRIBUTE] des Eintrags [ENTRY] wurde von [OLD] zu [NEW] verändert für die Sprache [LANGUAGE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Attribute [ATTRIBUTE] for the entry [ENTRY] has changed for the language [LANGUAGE] from [OLD] to [NEW].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Attribute [ATTRIBUTE] for the entry [ENTRY] has changed from [OLD] to [NEW].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Attribut [ATTRIBUTE] des Eintrags [ENTRY] wurde von [OLD] zu [NEW] verändert.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Attribute [ATTRIBUTE] for the entry [ENTRY] has changed from [OLD] to [NEW].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The value [VALUE] has been added to the attribute [ATTRIBUTE] for the entry [ENTRY].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Wert [VALUE] wurde dem Mengenattribut [ATTRIBUTE] des Eintrags [ENTRY] hinzugefügt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The value [VALUE] has been added to the attribute [ATTRIBUTE] for the entry [ENTRY].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The value [VALUE] has been removed from the attribute [ATTRIBUTE] for the entry [ENTRY].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Wert [VALUE] wurde vom Mengenattribut [ATTRIBUTE] des Eintrags [ENTRY] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The value [VALUE] has been removed from the attribute [ATTRIBUTE] for the entry [ENTRY].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Set Attribute [ATTRIBUTE] for the entry [ENTRY] has been cleared.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Mengenattribut [ATTRIBUTE] des Eintrags [ENTRY] wurde geleert.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Set Attribute [ATTRIBUTE] for the entry [ENTRY] has been cleared.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Sub entry for [ENTRY] with the name [SUBENTRY] created.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Untereintrag [SUBENTRY] für den Eintrag [ENTRY] wurde erstellt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Sub entry for [ENTRY] with the name [SUBENTRY] created.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Sub entry [SUBID] removed from [ENTRY].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Untereintrag [SUBID] wurde vom [ENTRY] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Sub entry [SUBID] removed from [ENTRY].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">All sub entries with the name [SUBENTRY] removed from [ENTRY].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Alle Untereinträge mit dem Namen [SUBENTRY] wurden vom Eintrag [ENTRY] entfernt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">All sub entries with the name [SUBENTRY] removed from [ENTRY].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

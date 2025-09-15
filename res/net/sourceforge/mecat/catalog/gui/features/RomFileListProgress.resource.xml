@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Directories</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Verzeichnisse</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Directories</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Files</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dateien</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Files</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Bytes</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bytes</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Bytes</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Rom file list creation progress</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fortschritt beim Erstellen der Dateiliste</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Rom file list creation progress</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Rom file list creation progress for [MEDIUM].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fortschritt beim Erstellen der Dateiliste für [MEDIUM].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Rom file list creation progress for [MEDIUM].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Finished reading file list.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dateiliste fertig eingelesen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Finished reading file list.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">STOP</Title>
+      <Translation TYPE="SINGLEVAL" language="de">STOP</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">STOP</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Close</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schließen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Close</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Reading file list interupted.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lesen der Dateiliste unterbrochen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Reading file list interupted.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Reading file list does not react, try to kill.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Lesen der Dateiliste reagiert nicht, erzwinge stop.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Reading file list does not react, try to kill.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">MD5</Title>
+      <Translation TYPE="SINGLEVAL" language="de">MD5</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">MD5</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No MD5</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein MD5</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No MD5</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Tags</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Etikett</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Tags</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No tags</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Etikett</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No tags</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Structure</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Struktur</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Structure</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remaining</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Verbleiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remaining</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

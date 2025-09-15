@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Use short view for view mode.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kurze Ansicht für Betrachtungsmodus benutzen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Use short view for view mode.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Only one line will be shown in view mode.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zeigt nur eine Linie im Betrachtungsmodus.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Only one line will be shown in view mode.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Prefer link instead of direct storage.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Als Verknüfung speicher anstelle von direkt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Prefer link instead of direct storage.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">This allows to reuse information.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das erlaubt die Wiederverwendung von Informationen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">This allows to reuse information.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Prefer link to external catalog.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eine Verknüpfung in externen Katalog bevorzugen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Prefer link to external catalog.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">This allows to reuse information between catalogs.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dies ermöglicht die Wiederverwendung von Infomrationen zwischen Katalogen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">This allows to reuse information between catalogs.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">External catalog.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Externer Katalog.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">External catalog.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

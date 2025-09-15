@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">ExportChoice</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export Wahl</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export choice</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Rename</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Umbenennen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Rename</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Delete</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Löschen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Delete</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Copy</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kopieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Copy</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">OK</Title>
+      <Translation TYPE="SINGLEVAL" language="de">OK</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">OK</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Cancel</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Abbrechen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Cancel</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Reset</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zurückstellen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Reset</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Select new name for the profile:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle neuen Namen für das Profil:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Select new name for the profile:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Customize selected profile:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Gewähltes Profil anpassen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Customize selected profile:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export profiles:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportprofile:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export profiles:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CopyPrefix</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kopie von</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Copy of</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CantEditNonpersonalProfile</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Nur die eigenen Profile können angepasst werden. Für eine Anpassung des Profiles muss eine Kopie davon angelegt werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Only personal profiles can be edited. If you want to edit this Profile then make a copy of it.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">EditProfile</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Anpassen des Profiles</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Edit the profile</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">NoOptions</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Profil hat keine Eigenschaften die angepasst werden können.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The profile has no options to edit.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CantRenamePredefined</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vordefinierte Profile können nicht umbenannt werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Can not rename predefined profiles.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CantDeletePredefined</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vordefinierte Profile können nicht gelöscht werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Can not remove predefined profiles.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">RenameProfile</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Umbenennen des aktuellen Profils.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Rename the selected profile.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">DeleteProfile</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lösche das aktuelle Profil.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Delete the current profile.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CopyProfile</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kopiere das aktuelle Profil.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Copy the current profile.</Translation>
+    </I18N>
+  </Options>
+</Catalog>

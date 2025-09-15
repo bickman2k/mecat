@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Entfernen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Edit</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bearbeiten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Edit</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">New [TYPE]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Neu [TYPE]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">New [TYPE]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Edit [TYPE]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[TYPE] bearbeiten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Edit [TYPE]</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

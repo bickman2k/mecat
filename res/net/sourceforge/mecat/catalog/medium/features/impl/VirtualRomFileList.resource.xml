@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">VirtualRomFileList</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dateiliste</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List of files</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Show roms as all in medium</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zeige alle Roms zusammen als eins</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Show roms as all in medium</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Show roms as all in medium with merged root</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zeige alle Roms zusammen als eins mit gemeinsamen Rootverzeichnis</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Show roms as all in medium with merged root</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search for doppelganger</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche nach Doppelgängern</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search for doppelganger</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Get global stats</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Berechne Gesamtstatistik</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Get global stats</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Update file system with older versions</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dateisysteme mit altern Version auf den neusten Stand bringen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Update file system with older versions</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The rom [ROM] has a file system with old version, rebuilding it...</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Rom [ROM] hat eine Dateiliste mit alter version, bringe es auf aktuellen Stand...</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The rom [ROM] has a file system with old version, rebuilding it...</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[ROM] has been rebuild.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[ROM] ist auf aktuellen Stand.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[ROM] has been rebuild.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

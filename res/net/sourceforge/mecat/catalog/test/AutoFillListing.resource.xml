@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+      <Languages TYPE="MULTIVAL">fr</Languages>
+      <Languages TYPE="MULTIVAL">es</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Sleepless in Seattle</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Nuits blanches à Seattle</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">Algo para recordar</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Schlaflos in Seattle</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Sleepless in Seattle</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">SleeplessInSeattlePlot</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Une journaliste fleur bleue entend la voix d'un homme solitaire dans une émission de radio.</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">Annie, una joven periodista a punto de casarse decide investigar quién es el hombre -viudo y con un hijo- que abrió su corazón en un consultorio sentimental radial que ella escucha todas las noches. Obsesionada, viaja hasta Seattle en complicidad con su jefa para conocer al propietario de esa voz que hizo tambalear sus deseos de matrimonio.</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Kürzlich verwitweter Vater wird von Sohn verkuppelt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">A recently-widowed man's son calls a radio talk show in an attempt to find his father a partner.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">A Knight's Tale</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Chevalier</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">Destino de caballero</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Ritter aus Leidenschaft</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">A Knight's Tale</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">AKnightsTalePlot</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">
+      Bien qu'il ne soit pas noble et donc qu'il n'ait pas le droit de participer aux joutes des chevaliers, l'intrépide William décide de prendre son destin en main en remplaçant au pied levé le seigneur dont il est l'écuyer, décédé tragiquement quelques jours avant le fameux tournoi qui doit réunir tous les chevaliers du territoire.
+
+Aidé du fougueux Wat et du frappadingue Geoff, l'écrivain errant, William devient, le jour J, le très valeureux chevalier Ulrich Von Lichtenstein de Gelberland…
+
+Voguant de victoire en victoire dans tous les plus grands tournois d'Europe, le jeune chevalier qui n'en est pas un, se construit un début de légende jusqu'au jour où le destin lui fait croiser la route d'Adhémar l'Invincible.
+
+Le coeur de Jocelyn sera d'autant plus dur à conquérir…
+      
+      </Translation>
+      <Translation TYPE="SINGLEVAL" language="es">William, hijo de un humilde campesino, tiene un sueño desde su infancia: convertirse en caballero. Pero en la Europa medieval del siglo XIV la fortuna no se hace, sino que se nace. Un día, durante un torneo medieval, el destino ofrecerá a William la oportunidad de participar y de conocer a la dama Jocelyn. Muy poco tiempo después ya se ha hecho a sí mismo al ritmo del atronador galope de los caballos y el clamor de la gente. Así irá ascendiendo hasta llegar al torneo medieval que declarará al mejor caballero del siglo. William, ayudado por sus amigos, tratará de vencer a un despiadado campeón llamado Count y así poder llegar a cambiar definitivamente su destino.</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Nach dem plötzlichen Tod ihres Herrn Sir Ector (Nick Brimble) sehen die drei verbleibenden Knappen William (Heath Ledger), Roland (Mark Addy) und Wat (Alan Tudyk) einer ungewissen Zukunft entgegen. Der Gefahr bewusst schwer bestraft zu werden, schlüpft der selbstbewusste William in die Fußstapfen seines Herrn und gibt sich heimlich als der Ritter aus. Unter dem Pseudonym Ulrich von Lichtenstein kann er einen Turniersieg nach dem anderen für sich entscheiden. </Translation>
+      <Translation TYPE="SINGLEVAL" language="en">A peasant squire takes up the identity of his master when the knight suffers an untimely demise.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Wee Free Men</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Les ch'tits hommes libres</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">Los Hombrecillos Libres</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Kleine freie Männer</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Wee Free Men</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Wee Free Men Plot</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">The Wee Free Men Plot fr</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">The Wee Free Men Plot es</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">The Wee Free Men Plot de</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Wee Free Men Plot en</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Fifth Elephant</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Le Cinquième Éléphant</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">El Quinto Elefante</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Der Fünfte Elefant</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Fifth Elephant</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Fifth Elephant Plot</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Le Cinquième Éléphant est le vingt-cinquième tomes des Annales du Disque-monde. Dans ce tome, le commissaire Vimaire apprend avec horreur que son titre de Duc d'Ankh le soumet à des fonctions diplomatiques. Il découvre également que la diplomatie peut impliquer des enquête policiaires.</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">The Fifth Elephant Plot Spanish</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">The Fifth Elephant Beschreibung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Fifth Elephant Plot</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Disc world novels</Title>
+      <Translation TYPE="SINGLEVAL" language="fr">Les Annales du Disque-monde</Translation>
+      <Translation TYPE="SINGLEVAL" language="es">Sobre Mundodisco</Translation>
+      <Translation TYPE="SINGLEVAL" language="de">Scheibenweltromane</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Disc world novels</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="fr"></Translation>
+      <Translation TYPE="SINGLEVAL" language="es"></Translation>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+vv  </Options>
+</Catalog>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Medium</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Medium</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Medium</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Name</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Name</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Media</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Medien</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Media</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not find Medium</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium [MEDIUM] konnte nicht gefunden werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not find the medium [MEDIUM].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

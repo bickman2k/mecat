@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Nothing to drop.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Nichts zum Ablegen vorhanden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Nothing to drop.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Drop Error</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler beim Ablegen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Drop Error</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Can not move elements from more than one line.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es können nicht Elemente mehrerer Linien bewegt werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Can not move elements from more than one line.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Internal Error. Inconsistent state for the Image Desktop Canvas.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Interner Fehler. Fehlerhafter Zustand des Image Desktop Canvas.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Internal Error. Inconsistent state for the Image Desktop Canvas.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

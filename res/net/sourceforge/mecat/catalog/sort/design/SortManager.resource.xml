@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create new</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Neue erstellen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create new</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Predefined sortings:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vordefinierte Sortierungen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Predefined sortings:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Recent sortings:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kürzlich verwendete Sortierungen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Recent sortings:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Current used sortings:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Aktuell genutzte Sortierung:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Current used sortings:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Sorting manager</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sortierungsmanager</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Sorting manager</Translation>
+    </I18N>
+  </Options>
+</Catalog>

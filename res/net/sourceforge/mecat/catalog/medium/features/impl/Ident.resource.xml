@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Ident</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Id</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Id</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Set UUID</Title>
+      <Translation TYPE="SINGLEVAL" language="de">UUID setzen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Set UUID</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check consistency.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Konsistenzprüfung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Consistency check</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Checks whether two entries have the same Ident (UUID).</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüft, ob zwei Einträge mit gleicher Id (UUID) existieren.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Checks whether two entries have the same Id (UUID).</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">FoundEntriesWrongID</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es existieren [NUMBER] Einträge mit der UUID [UUID].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There are [NUMBER] entries with the UUID [UUID].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Found consistency problems.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalog ist nicht konsistent.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Found consistency problems.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No consistency problems where found.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Konsistenzbrüche gefunden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No consistency problems were found.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Every media has its own Id.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Jeder Eintrag hat eine einzigartige Id.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Every entry has its unique Id.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No consistency problems.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Konsistenzbrüche.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No consistency problems.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Restore consistency.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Konsistenz wiederherstellen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Restore consistency.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Every entries becomes an individual Ident (UUID).</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Jeder Eintrag bekommt eine einzigartige Id (UUID).</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Every entry gets a unique Id (UUID).</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

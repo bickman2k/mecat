@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">MultiImageFeature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bildfeature</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Image feature</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create image entry</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bildeintrag erstellen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create image entry</Translation>
+    </I18N>
+  </Options>
+</Catalog>

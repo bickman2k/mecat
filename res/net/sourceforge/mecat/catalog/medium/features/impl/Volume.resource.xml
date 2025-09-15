@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Volume</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ausgabe</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Volume</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The number of the volume is [NUMBER].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Nummer der Ausgabe ist [NUMBER].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The number of the volume is [NUMBER].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The series has [LENGTH] volumes.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Serie besteht aus [LENGTH] Ausgaben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The series has [LENGTH] volumes.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">This is volume [NUMBER] of [LENGTH].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dies ist Ausgabe [NUMBER] von [LENGTH].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">This is volume [NUMBER] of [LENGTH].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">X of [LENGTH]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">X von [LENGTH]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">X of [LENGTH]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[NUMBER] of [LENGTH]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[NUMBER] von [LENGTH]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[NUMBER] of [LENGTH]</Translation>
+    </I18N>
+  </Options>
+</Catalog>

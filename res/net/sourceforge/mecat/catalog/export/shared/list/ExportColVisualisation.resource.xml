@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override list options</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Listeneinstellungen überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override list options</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Edit ListProperties</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Listeneinstellungen bearbeiten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Edit list options</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">List Options:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Listeneinstellungen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List Options:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">TeXForStart</Title>
+      <Translation TYPE="SINGLEVAL" language="de">TeX-code vor der Liste.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">TeX-code before the list.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">NumberOfSize</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[NUMBER] von [SIZE]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[NUMBER] of [SIZE]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Type of the column.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Typ der Spalte.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Type of the column.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose the type of the column.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle den Typ der Spalte.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose the type of the column.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">List</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Liste</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Edit</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bearbeiten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Edit</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Insert Column</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Spalte hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Insert column</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Switch with column on the left</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Tausche mit linker Nachbarspalte</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Switch with column on the left</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Switch with column on the right</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Tausche mit rechter Nachbarspalte</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Switch with column on the right</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Please input widths.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bitte die Breite angeben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Please input width.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove column</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Spalte entfernen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove column</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Insert Item</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Element hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Insert item</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove Item</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Element entfernen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove item</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Please input tex-command/text.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bitte einen TeX-Befehl oder Text eingeben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Please input TeX-command or text.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Here is a list of all features to choose from:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wählen sie ein Feature aus der folgenden Liste:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose a feature from the following list:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose the feature for the output.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wählen Sie das Feature für die Ausgabe.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose the feature for the output.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">General Options:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Allgemeine Einstellungen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">General options:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export settings:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exporteinstellungen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export settings:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">List settings:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Einstellungen der Liste:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List settings:</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

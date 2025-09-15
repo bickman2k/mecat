@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">AudioLanguages</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Audiosprachen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Audio Languages</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has no [ATTRIBUTENAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Sprache des Tons ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The language of the audio is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [NUMBER] [ATTRIBUTENAME]s [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Ton ist in den [NUMBER] Sprachen [SELECTION] vorhanden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Audio is available for the [NUMBER] languages [SELECTION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [ATTRIBUTENAME] [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Ton ist auf [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Audio is available for the language [SELECTION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The [ATTRIBUTENAME] is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Sprache des Tons ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The language of the audio is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The [ATTRIBUTENAME] is [CHOICE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Ton ist auf [CHOICE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Audio is [CHOICE].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

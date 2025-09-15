@@ -1,0 +1,67 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <FeatureOption TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ChoiceFeatureOption</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+        <Value TYPE="SINGLEVAL" >Regioncode_Resource</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      <Regioncode_Resource_Languages TYPE="SUBNODE" >
+        <Languages TYPE="MULTIVAL" >en</Languages>
+        <Languages TYPE="MULTIVAL" >de</Languages>
+      </Regioncode_Resource_Languages>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >0 - Keiner</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >0 - None</Translation>
+        <Title TYPE="SINGLEVAL" >0</Title>
+      </Regioncode_Resource>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >1 - Kanada und USA</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >1 - Canada and USA</Translation>
+        <Title TYPE="SINGLEVAL" >1</Title>
+      </Regioncode_Resource>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >2 - Europa, Japan, Naher Osten und Südafrika</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >2 - Europe, Japan, Middle East and South Africa</Translation>
+        <Title TYPE="SINGLEVAL" >2</Title>
+      </Regioncode_Resource>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >3 - Südostasien und Ostasien</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >3 - Southeast Asia and East Asia</Translation>
+        <Title TYPE="SINGLEVAL" >3</Title>
+      </Regioncode_Resource>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >4 - Australien und Südamerika</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >4 - Australia and South America</Translation>
+        <Title TYPE="SINGLEVAL" >4</Title>
+      </Regioncode_Resource>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >5 - Afrika, Russland und der Rest Asiens</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >5 - Africa, Russia and the rest of Asia</Translation>
+        <Title TYPE="SINGLEVAL" >5</Title>
+      </Regioncode_Resource>
+      <Regioncode_Resource TYPE="SUBNODE" >
+        <Translation TYPE="SINGLEVAL" language="de" >6 - China</Translation>
+        <Translation TYPE="SINGLEVAL" language="en" >6 - China</Translation>
+        <Title TYPE="SINGLEVAL" >6</Title>
+      </Regioncode_Resource>
+    </FeatureOption>
+    <FeatureValidator TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.validators.ChoiceFeatureValidator</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+        <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Regioncode</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+    </FeatureValidator>
+    <FeatureOptionMerger TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.merger.choiceFeature.ChoiceFeatureMerger</ClassName>
+      <ArgumentNumber TYPE="SINGLEVAL" >0</ArgumentNumber>
+    </FeatureOptionMerger>
+  </Options>
+</Catalog>

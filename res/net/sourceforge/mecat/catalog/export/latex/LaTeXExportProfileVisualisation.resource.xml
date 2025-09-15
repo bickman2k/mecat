@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Print the result to an available postscript-printer.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Drucke das Ergebnis auf einen verfügbaren Postscript-Drucker.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Print the result to an available postscript-printer.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Customize LaTeX:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">LaTeX anpassen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Customize LaTeX:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Print settings:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Druckeinstellungen:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Print settings:</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

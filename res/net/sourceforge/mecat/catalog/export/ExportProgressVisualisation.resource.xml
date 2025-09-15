@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">ExportProgressVisualisation</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportfortschrittsanzeige</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Progress of export</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">STOP</Title>
+      <Translation TYPE="SINGLEVAL" language="de">STOP</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">STOP</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Close</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schließen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Close</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Stopping...</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Stoppen...</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Stopping...</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[ExpVisu]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[ExpVisu]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[ExpVisu]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Hide for print options.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Für Druckeigenschaften verstecken.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Hide for print options.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Unhide after print options are gone.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wieder hervorholen nachdem Druckeigenschaten weg sind.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Unhide after print options are gone.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check title with title from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vergleiche den local title mit dem von der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check title with title from IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Trivial differences</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Trivial Unterschiede</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Trivial differences</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Find IMDB title with wrong Language</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Finde IMDB title mit falscher Sprache</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Find IMDB title with wrong Language</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace title that are diffent in the IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ersetze Titel die anderes sind in der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace title that are diffent in the IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check akas with akas from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüfe Alias mit denen der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check akas with akas from IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add missing akas</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Füge fehlende Alias hinzu</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add missing akas</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove akas that are not in the IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Entferne Alias die nicht in der IMDB sind</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove akas that are not in the IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace akas that are diffent in the IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ersetze Alias die in der IMDB anders sind</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace akas that are diffent in the IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check year with year from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüfe Jahr mit dem der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check year with year from IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace year with the year from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ersetze Jahre die anders sind als die in der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace year with the year from IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check genres with genres from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüfe Genre mit denen der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check genres with genres from IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Replace genres with the genres from IMDB</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Ersetzte Genre die anders sind als die der IMDB</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Replace genres with the genres from IMDB</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Title</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Titel</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Title</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Akas</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Alias</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Akas</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Year</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Jahr</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Year</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Genres</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Genre</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Genres</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Options used for check</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüfungseigenschaften</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Options used for check</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

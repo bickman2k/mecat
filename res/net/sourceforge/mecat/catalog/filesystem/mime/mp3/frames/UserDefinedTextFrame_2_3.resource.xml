@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+	  <I18N_Languages>
+		  <Languages TYPE="MULTIVAL">en</Languages>
+	  </I18N_Languages>
+<I18N>
+	<Title TYPE="SINGLEVAL">TXXX</Title>
+	<Translation TYPE="SINGLEVAL" language="en">
+   With these 'User defined text information' frames dynamic data such as webpages with touring
+   information, price information or plain ordinary news can be added to
+   the tag. There may only be one URL [URL] link frame of its kind in an
+   tag, except when stated otherwise in the frame description. If the
+   textstring is followed by a termination ($00 (00)) all the following
+   information should be ignored and not be displayed. All URL link
+   frame identifiers begins with "W". Only URL link frame identifiers
+   begins with "W". All URL link frames have the following format:
+	</Translation>
+</I18N>
+  </Options>
+</Catalog>

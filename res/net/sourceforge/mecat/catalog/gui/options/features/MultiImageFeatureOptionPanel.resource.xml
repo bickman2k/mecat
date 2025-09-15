@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Maximum scaling for image</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Maximale Skalierung der Bilder</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Maximum scaling for image</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Every picture has an option</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Jedes Bild hat eigene Einstellung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Every picture has an option</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Shared option:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Gemeinsame Eigenschaften:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Shared option:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Bag images:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Restliche Bilder</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Other images</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

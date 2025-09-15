@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">WAF</Title>
+			<Translation TYPE="SINGLEVAL" language="en">
+   The 'Official audio file webpage' frame is a URL pointing at a file
+   specific webpage.
+			</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">WAR</Title>
+			<Translation TYPE="SINGLEVAL" language="en">
+   The 'Official artist/performer webpage' frame is a URL pointing at
+   the artists official webpage. There may be more than one "WAR" frame
+   in a tag if the audio contains more than one performer.
+			</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">WAS</Title>
+			<Translation TYPE="SINGLEVAL" language="en">
+   The 'Official audio source webpage' frame is a URL pointing at the
+   official webpage for the source of the audio file, e.g. a movie.
+			</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">WCM</Title>
+			<Translation TYPE="SINGLEVAL" language="en">
+   The 'Commercial information' frame is a URL pointing at a webpage
+   with information such as where the album can be bought. There may be
+   more than one "WCM" frame in a tag.
+			</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">WCP</Title>
+			<Translation TYPE="SINGLEVAL" language="en">
+   The 'Copyright/Legal information' frame is a URL pointing at a
+   webpage where the terms of use and ownership of the file is described.
+			</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">WPB</Title>
+			<Translation TYPE="SINGLEVAL" language="en">
+   The 'Publishers official webpage' frame is a URL pointing at the
+   official wepage for the publisher.
+			</Translation>
+		</I18N>
+	</Options>
+</Catalog>

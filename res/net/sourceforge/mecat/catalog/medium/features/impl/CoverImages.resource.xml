@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CoverImages</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Cover Bilder</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Cover images</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Front</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vorderseite</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Front</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Spine</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Rücken</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Spine</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Back</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Rückseite</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Back</Translation>
+    </I18N>
+  </Options>
+</Catalog>

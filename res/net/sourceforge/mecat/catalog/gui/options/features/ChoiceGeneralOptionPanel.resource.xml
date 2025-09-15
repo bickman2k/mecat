@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Override</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überschreiben</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Override</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Set defaults</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Standardwerte setzen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Set defaults</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

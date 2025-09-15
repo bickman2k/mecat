@@ -1,0 +1,59 @@
+<project name="Project MeCat" default="jar" basedir=".">
+	<description>
+		Build MeCat with ant
+	</description>
+	
+	<property name="src"     location="src"/>
+	<property name="build"   location="classes"/>
+	<property name="res"     location="res"/>
+	<property name="img"     location="img"/>
+	<property name="dist"    location="dist"/>
+	<property name="version" value="1.4.6"/>
+	<property name="doc"     location="doc"/>
+	
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp/>
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}"/>
+	</target>
+	
+	<target name="compile" depends="init"
+		description="compile the source " >
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac srcdir="${src}" destdir="${build}" encoding="ISO-8859-1"/>
+	</target>
+	
+	<target name="jar" depends="compile"
+		description="generate the distribution" >
+		<!-- Create the distribution directory -->
+		<mkdir dir="${dist}/"/>
+		<delete file="${dist}/mecat-${version}.jar"/>		
+		
+		<!-- Put everything in ${build} into the mecat-${version}.jar file -->
+		<jar jarfile="${dist}/mecat-${version}.jar" manifest="META-INF/MANIFEST.MF"> 
+			<fileset dir="${build}" includes="**/*.class" 
+				excludes="**/AutoFillListing.class,**/TestStoreShallow.class,**/TextFeatureValidatorTest.class,**/FilterTest.class" />
+			<fileset dir="${res}" />
+			<fileset dir="${img}" />
+			<fileset dir="." includes="gpl.txt" />
+		</jar>
+	</target>
+	
+	<target name="javadoc" depends="init">
+		<mkdir dir="${doc}"/>
+		<javadoc packagenames="net.sourceforge.mecat.*"
+			locale="en_US"
+			sourcepath="${src}"
+			destdir="${doc}"
+		/>
+	</target>
+	
+	<target name="clean"
+		description="clean up" >
+		<!-- Delete the ${build}, ${dist} and ${doc} directory trees -->
+		<delete dir="${build}"/>
+		<delete dir="${dist}"/>
+		<delete dir="${doc}"/>
+	</target>
+</project>

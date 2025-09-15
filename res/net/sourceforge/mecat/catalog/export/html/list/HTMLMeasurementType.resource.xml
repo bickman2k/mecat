@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">FixLenOf</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fixgröße von [WIDTH]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Fixed size of [WIDTH]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Percent</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[WIDTH]% der Gesamtgröße</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[WIDTH]% of the complete width</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Proportion</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Verhältnisanteil von [WIDTH]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Proportional width of [WIDTH]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Unspecified</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Unspezifiziert Breiten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Unspecified width</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Regular expression</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Regulärer Ausdruck</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Regular expression</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Case sensitve</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Groß- und Kleinschreibung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Case sensitve</Translation>
+    </I18N>
+  </Options>
+</Catalog>

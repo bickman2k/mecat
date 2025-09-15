@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">html</Title>
+      <Translation TYPE="SINGLEVAL" language="de">HTML</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">HTML</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">UTF8 is not supported.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">UTF8 wird nicht unterstützt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">UTF8 is not supported.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not open file:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Datei konnte nicht geöffnet werden:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not open file:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Exception while writing file:</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fehler bei der Ausgabe in Datei:</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Exception while writing file:</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">HTMLExport</Title>
+      <Translation TYPE="SINGLEVAL" language="de">HTML Export</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">HTML export</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export from MeCat</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export aus MeCat</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export from MeCat</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create detailed information page.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle Seite mit detailierten Informationen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create detailed information page.</Translation>
+    </I18N>
+  </Options>
+</Catalog>

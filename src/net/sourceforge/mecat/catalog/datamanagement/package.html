@@ -1,0 +1,40 @@
+<html>
+<body>
+
+The package datamanagement is the interface for the storage of the catalogs data. I.e.
+in order to allow the programm to save to the information the users types in somewhere the programm
+uses the implementation of the following Classes:
+
+<dir>
+	<li> {@link net.sourceforge.mecat.catalog.datamanagement.CatalogFactory}</li>
+	<li> {@link net.sourceforge.mecat.catalog.datamanagement.Connection}</li>
+	<li> {@link net.sourceforge.mecat.catalog.datamanagement.Entry} </li>
+	<li> {@link net.sourceforge.mecat.catalog.datamanagement.Catalog}</li>
+	<li> {@link net.sourceforge.mecat.catalog.datamanagement.Identifier}</li>
+</dir>
+
+When implementing the classes you have to consider the following:
+
+<ol>
+	<li>
+		You need an implementation of all 5 classes from this package in order to get things work.
+		In most cases this means that you have to implement all 5 classes. 
+	</li>
+	<li> 
+		The implementation of the 5 classes should be placed in the same directory.
+		And in the current version this directory has to be a direct subdirectory of this package directory
+	</li>
+	<li>
+		Last but not least follow the implementation advices from the four class:
+		<dir>
+			<li> {@link net.sourceforge.mecat.catalog.datamanagement.CatalogFactory}</li>
+			<li> {@link net.sourceforge.mecat.catalog.datamanagement.Connection}</li>
+			<li> {@link net.sourceforge.mecat.catalog.datamanagement.Entry} </li>
+			<li> {@link net.sourceforge.mecat.catalog.datamanagement.Catalog}</li>
+			<li> {@link net.sourceforge.mecat.catalog.datamanagement.Identifier}</li>
+		</dir>
+	</li>
+</ol>
+
+</body>
+</html>

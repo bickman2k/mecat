@@ -1,0 +1,29 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <FeatureOption TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.SubEntryListFeatureOption</ClassName>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >0</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+        <Value TYPE="SINGLEVAL" >false</Value>
+      </Argument>
+      <Argument TYPE="SUBNODE" >
+        <Number TYPE="SINGLEVAL" >1</Number>
+        <Type TYPE="SINGLEVAL" >java.lang.Boolean</Type>
+        <Value TYPE="SINGLEVAL" >true</Value>
+      </Argument>
+      <ArgumentNumber TYPE="SINGLEVAL" >2</ArgumentNumber>
+      <ShowSorting TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.sort.ByNumberFromTextFeature</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.Class</Type>
+          <Value TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.impl.Position</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </ShowSorting>
+    </FeatureOption>
+  </Options>
+</Catalog>

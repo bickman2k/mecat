@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Read file from later version, skipping [BYTES] bytes.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lese eine Datei einer späteren Version, überspringe [BYTES] Bytes beim lesen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Read file from later version, skipping [BYTES] bytes.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Needed to read 16 bytes.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es hätten 16 Bytes gelesen werden müssen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Needed to read 16 bytes.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

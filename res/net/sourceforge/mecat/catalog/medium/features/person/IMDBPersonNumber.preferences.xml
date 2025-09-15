@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+  	<IMDBPersonNumber>
+      <Visible TYPE="SINGLEVAL">false</Visible>
+  	</IMDBPersonNumber>
+  </Options>
+</Catalog>

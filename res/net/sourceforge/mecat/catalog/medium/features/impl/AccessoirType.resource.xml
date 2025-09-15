@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">AccessoirType</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zubehörtyp</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Type of the accessory</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has no [ATTRIBUTENAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Typ des Zubehörs ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The typ of the accessory is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [NUMBER] [ATTRIBUTENAME]s [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Zubehör hat die [NUMBER] Typen [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The accessory has the [NUMBER] types [SELECTION].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium has the [ATTRIBUTENAME] [SELECTION].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Zubehör hat den Typ [SELECTION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The accessory has the type [SELECTION].</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

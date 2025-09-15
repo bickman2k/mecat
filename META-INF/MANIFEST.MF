@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: net.sourceforge.mecat.catalog.gui.splasher.Splasher
+Created-By: Stephan Richard Palm
+Class-Path: xercesImpl.jar
+Time: OnDemand

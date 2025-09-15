@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">FeatureSortOptions</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaften der Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Option for sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Entfernen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Show sorting for all features</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zeige Sortierung für alle Features</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Show sorting for all features</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

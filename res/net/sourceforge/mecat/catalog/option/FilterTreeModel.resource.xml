@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Predefined</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vordefiniert</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Predefined</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Personal</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Eigene</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Personal</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Recent</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Kürzlich verwendete</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Recent</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Filters</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Filter</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Filters</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Language</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Sprache</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Language</Translation>
+    </I18N>
+  </Options>
+</Catalog>

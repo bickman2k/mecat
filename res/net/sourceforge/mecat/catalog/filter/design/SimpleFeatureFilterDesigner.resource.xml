@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">SimpleFeatureFilterDesigner</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Feature-Filterdesigner</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Feature filter desginer</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Feature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Feature</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Feature</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Value</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wert</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Value</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

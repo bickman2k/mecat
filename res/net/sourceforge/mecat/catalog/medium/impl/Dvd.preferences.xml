@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<Dvd>
+      <Visible TYPE="SINGLEVAL">true</Visible>
+      <net.sourceforge.mecat.catalog.gui.features.desktop.view.ViewDesktop TYPE="SUBNODE">
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.impl.IMDBTitleNumber
+      	</Hidden>
+      </net.sourceforge.mecat.catalog.gui.features.desktop.view.ViewDesktop>
+  	</Dvd>
+  </Options>
+</Catalog>

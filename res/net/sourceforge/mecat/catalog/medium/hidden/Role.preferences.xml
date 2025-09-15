@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<Role>
+      <Visible TYPE="SINGLEVAL">false</Visible>
+      <net.sourceforge.mecat.catalog.gui.features.desktop.view.ViewDesktop TYPE="SUBNODE">
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.impl.Actor
+      	</Hidden>
+      	<Hidden TYPE="MULTIVAL">
+          net.sourceforge.mecat.catalog.medium.features.person.Name
+      	</Hidden>
+      </net.sourceforge.mecat.catalog.gui.features.desktop.view.ViewDesktop>
+  	</Role>
+  </Options>
+</Catalog>

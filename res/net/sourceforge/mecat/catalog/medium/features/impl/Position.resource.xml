@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Position</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lagerungsposition</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Storing position</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The position is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lagerungsposition</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The position is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium is at position POSITION.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium befindet sich an der Position [POSITION].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium is at position [POSITION].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

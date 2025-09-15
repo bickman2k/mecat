@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">yes</Title>
+			<Translation TYPE="SINGLEVAL" language="en">yes</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">ja</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">no</Title>
+			<Translation TYPE="SINGLEVAL" language="en">no</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">nein</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Unkown color code</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Unbekannter Farbcode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Unkown color code</Translation>
+		</I18N>
+		<_1_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_1_Languages>
+		<_1>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Macro mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Makromodus</Translation>
+		</_1>
+		<_1>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">macro</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Makro</Translation>
+		</_1>
+		<_1>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Normal</Translation>
+		</_1>
+		<_2_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_2_Languages>
+		<_2>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Self-timer length in 10ths of a second</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Länge des Selbstauslösers in Zehntelsekunden</Translation>
+		</_2>
+		<_2>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">no self-timer</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">kein Selbstauslöser</Translation>
+		</_2>
+		<_3_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+			<Languages TYPE="MULTIVAL">da</Languages>
+			<Languages TYPE="MULTIVAL">it</Languages>
+			<Languages TYPE="MULTIVAL">es</Languages>
+			<Languages TYPE="MULTIVAL">fi</Languages>
+			<Languages TYPE="MULTIVAL">fr</Languages>
+			<Languages TYPE="MULTIVAL">nl</Languages>
+			<Languages TYPE="MULTIVAL">sv</Languages>
+		</_3_Languages>
+		<_3>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Compression</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kompression</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Kompression</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Compressione</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Compresión</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Pakkaussuhde</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Compression</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Compressie</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Kompression</Translation>
+		</_3>
+		<_3>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Normale</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Normaali</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Normaal</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Normal</Translation>
+		</_3>
+		<_3>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Fine</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fein</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Fin</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Fine</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Fina</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Hieno</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Fin</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Fijn</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Fin</Translation>
+		</_3>
+		<_3>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Superfine</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Superfein</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Meget fin</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Superfine</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Superfina</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Erikoishieno</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Super-Fin</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Superfijn</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Superfin</Translation>
+		</_3>
+		<_4_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_4_Languages>
+		<_4>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blitzmodus</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">flash not fired</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blitz nicht benutzt</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">automatik</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">on</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">an</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">red-eye reduction</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Rote Augen unterdrücken</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">slow synchro</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">langsame Syncronisation</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">auto + red-eye reduction</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">automatik mit rote Augen unterdrücken</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">on + red-eye reduction</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">an mit rote Augen unterdrücken</Translation>
+		</_4>
+		<_4>
+			<Title TYPE="SINGLEVAL">16</Title>
+			<Translation TYPE="SINGLEVAL" language="en">external flash</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">externer Blitz</Translation>
+		</_4>
+		<_5_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_5_Languages>
+		<_5>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Continuous drive mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Serienbildmodus</Translation>
+		</_5>
+		<_5>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">single or timer</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">einzeln oder Selbstauslöser</Translation>
+		</_5>
+		<_5>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">continuous</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Serienbild</Translation>
+		</_5>
+		<_7_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_7_Languages>
+		<_7>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Focus mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fokussiermodus</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">One-Shot</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">One-Shot</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Al Servo</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Al Servo</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Al Focus</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Al Focus</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Manual Focus</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Manueller Fokus</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Single</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">einzeln</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Continuous</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Serienbild</Translation>
+		</_7>
+		<_7>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Manual Focus</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Manueller Fokus</Translation>
+		</_7>
+		<_10_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_10_Languages>
+		<_10>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Image size</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Bildgröße</Translation>
+		</_10>
+		<_10>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">large</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">groß</Translation>
+		</_10>
+		<_10>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">medium</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">mittelgroß</Translation>
+		</_10>
+		<_10>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">small</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">klein</Translation>
+		</_10>
+		<_11_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_11_Languages>
+		<_11>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Easy shooting mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Einfacher modus</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Full Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Vollautomatisch</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Manual (see Exposure Mode) </Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Manuell (siehe Aufnahmemodus) </Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Landscape</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Landschaft</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Fast Shutter</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kurze Verschlusszeit</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Slow Shutter</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Lange Verschlusszeit</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Night</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Nachtaufnahme</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Black and White</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Schwarz-Weiß</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">7</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Sepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Sepia</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">8</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Portrait</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Porträt</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">9</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Sports</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Sport</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">10</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Macro</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Makro</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">11</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Pan Focus</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Panonrama Fokusmodus</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">18</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Foliage</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Laub</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">19</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Indoor</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Innenaufnahme</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">20</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Fireworks</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Feuerwerk</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">21</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Beach</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Strand</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">22</Title>
+			<Translation TYPE="SINGLEVAL" language="en">under water</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Unterwasser</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">23</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Snow</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Schnee</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">24</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Children and animals</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kinder und Tiere</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">25</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Snapshot at night</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Nachtschnappschuss</Translation>
+		</_11>
+		<_11>
+			<Title TYPE="SINGLEVAL">27</Title>
+			<Translation TYPE="SINGLEVAL" language="en">My colors</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Meine Farben</Translation>
+		</_11>
+		<_12_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_12_Languages>
+		<_12>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Digital Zoom</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Digitaler Zoom</Translation>
+		</_12>
+		<_12>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">No digital zoom</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kein digitaler Zoom</Translation>
+		</_12>
+		<_12>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">2x</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">2x</Translation>
+		</_12>
+		<_12>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">4x</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">4x</Translation>
+		</_12>
+		<_13_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_13_Languages>
+		<_13>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Contrast</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kontrast</Translation>
+		</_13>
+		<_13>
+			<Title TYPE="SINGLEVAL">65535</Title>
+			<Translation TYPE="SINGLEVAL" language="en">low</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">gering</Translation>
+		</_13>
+		<_13>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">normal</Translation>
+		</_13>
+		<_13>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">high</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">hoch</Translation>
+		</_13>
+		<_14_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_14_Languages>
+		<_14>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Saturation</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Sättigung</Translation>
+		</_14>
+		<_14>
+			<Title TYPE="SINGLEVAL">65535</Title>
+			<Translation TYPE="SINGLEVAL" language="en">low</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">gering</Translation>
+		</_14>
+		<_14>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">normal</Translation>
+		</_14>
+		<_14>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">high</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">hoch</Translation>
+		</_14>
+		<_15_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_15_Languages>
+		<_15>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Sharpness</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Schärfe</Translation>
+		</_15>
+		<_15>
+			<Title TYPE="SINGLEVAL">65535</Title>
+			<Translation TYPE="SINGLEVAL" language="en">low</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">gering</Translation>
+		</_15>
+		<_15>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">normal</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">normal</Translation>
+		</_15>
+		<_15>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">high</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">hoch</Translation>
+		</_15>
+		<_16_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_16_Languages>
+		<_16>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">ISO</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">ISO</Translation>
+		</_16>
+		<_16>
+			<Title TYPE="SINGLEVAL">15</Title>
+			<Translation TYPE="SINGLEVAL" language="en">auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Auto</Translation>
+		</_16>
+		<_16>
+			<Title TYPE="SINGLEVAL">16</Title>
+			<Translation TYPE="SINGLEVAL" language="en">50</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">50</Translation>
+		</_16>
+		<_16>
+			<Title TYPE="SINGLEVAL">17</Title>
+			<Translation TYPE="SINGLEVAL" language="en">100</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">100</Translation>
+		</_16>
+		<_16>
+			<Title TYPE="SINGLEVAL">18</Title>
+			<Translation TYPE="SINGLEVAL" language="en">200</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">200</Translation>
+		</_16>
+		<_16>
+			<Title TYPE="SINGLEVAL">19</Title>
+			<Translation TYPE="SINGLEVAL" language="en">400</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">400</Translation>
+		</_16>
+		<_17_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_17_Languages>
+		<_17>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Metering mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Messverfahren</Translation>
+		</_17>
+		<_17>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Evaluative</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Auswertend</Translation>
+		</_17>
+		<_17>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Partial</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Partiell</Translation>
+		</_17>
+		<_17>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Center-weighted</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Zentralgewichtet</Translation>
+		</_17>
+		<_18_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_18_Languages>
+		<_18>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Focus Type</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fokustyp</Translation>
+		</_18>
+		<_18>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Manual</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Manuell</Translation>
+		</_18>
+		<_18>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Auto</Translation>
+		</_18>
+		<_18>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Macro</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Makro</Translation>
+		</_18>
+		<_18>
+			<Title TYPE="SINGLEVAL">8</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Locked (Pan Mode)</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fest (Pan Modus)</Translation>
+		</_18>
+		<_19_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_19_Languages>
+		<_19>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">AF point selected</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">selektierter AF-Punkt</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">12288</Title>
+			<Translation TYPE="SINGLEVAL" language="en">none</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">keiner</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">12289</Title>
+			<Translation TYPE="SINGLEVAL" language="en">auto-selected</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Autoselektiert</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">12890</Title>
+			<Translation TYPE="SINGLEVAL" language="en">right</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">rechts</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">12891</Title>
+			<Translation TYPE="SINGLEVAL" language="en">center</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">zentral</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">12892</Title>
+			<Translation TYPE="SINGLEVAL" language="en">left</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">links</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">16384</Title>
+			<Translation TYPE="SINGLEVAL" language="en">none</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">keiner</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">16385</Title>
+			<Translation TYPE="SINGLEVAL" language="en">auto-selected</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Autoselektiert</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">16386</Title>
+			<Translation TYPE="SINGLEVAL" language="en">right</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">rechts</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">16387</Title>
+			<Translation TYPE="SINGLEVAL" language="en">center</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">zentral</Translation>
+		</_19>
+		<_19>
+			<Title TYPE="SINGLEVAL">16388</Title>
+			<Translation TYPE="SINGLEVAL" language="en">left</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">links</Translation>
+		</_19>
+		<_20_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_20_Languages>
+		<_20>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Exposure mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Aufnahmemodus</Translation>
+		</_20>
+		<_20>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">see field easy shooting</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">siehe Feld Einfacher Modus</Translation>
+		</_20>
+		<_20>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Program</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Programm</Translation>
+		</_20>
+		<_20>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Tv-priority</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blendenautomatik</Translation>
+		</_20>
+		<_20>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Av-priority</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Zeitautomatik</Translation>
+		</_20>
+		<_20>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Manual</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Manuell</Translation>
+		</_20>
+		<_20>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">A-DEP</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">A-DEP</Translation>
+		</_20>
+		<_23_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_23_Languages>
+		<_23>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">long focal length of lens in focal units</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">lange Brennweite der Linse in Fokuseinheiten</Translation>
+		</_23>
+		<_24_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_24_Languages>
+		<_24>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">short focal length of lens in focal units</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">kurze Brennweite der Linse in Fokuseinheiten</Translation>
+		</_24>
+		<_25_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_25_Languages>
+		<_25>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">focal units per mm</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fokuseinheiten pro mm</Translation>
+		</_25>
+		<_28_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_28_Languages>
+		<_28>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash activity</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Flashbenutzung</Translation>
+		</_28>
+		<_28>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash did not fire</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blitz wurde nicht benutzt</Translation>
+		</_28>
+		<_28>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash fired</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blitz benutzt</Translation>
+		</_28>
+		<_29_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_Languages>
+		<_29>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash details</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blitzdetails</Translation>
+		</_29>
+		<_29>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">FP sync enabled</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Brennebenensynchronisation (FP sync) eingeschaltet</Translation>
+		</_29>
+		<_29>
+			<Title TYPE="SINGLEVAL">11</Title>
+			<Translation TYPE="SINGLEVAL" language="en">FP sync used</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Brennebenensynchronisation (FP sync) benutzt</Translation>
+		</_29>
+		<_29>
+			<Title TYPE="SINGLEVAL">13</Title>
+			<Translation TYPE="SINGLEVAL" language="en">internal flash</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Eingebauter Blitz</Translation>
+		</_29>
+		<_29>
+			<Title TYPE="SINGLEVAL">14</Title>
+			<Translation TYPE="SINGLEVAL" language="en">externer E-TTL</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Externer E-TTL</Translation>
+		</_29>
+		<_32_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_32_Languages>
+		<_32>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Focus mode</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fokusmodus</Translation>
+		</_32>
+		<_32>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Single</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Einzeln</Translation>
+		</_32>
+		<_32>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Continuous</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Serie</Translation>
+		</_32>
+		<_40_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+			<Languages TYPE="MULTIVAL">da</Languages>
+			<Languages TYPE="MULTIVAL">it</Languages>
+			<Languages TYPE="MULTIVAL">es</Languages>
+			<Languages TYPE="MULTIVAL">fi</Languages>
+			<Languages TYPE="MULTIVAL">fr</Languages>
+			<Languages TYPE="MULTIVAL">nl</Languages>
+			<Languages TYPE="MULTIVAL">sv</Languages>
+		</_40_Languages>
+		<_40>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Photo effect settings</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Fotoeffekteinstellung</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Fotoeffektindstillinger</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Impostazioni degli effetti</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Ajustes de Efecto Foto</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Kuvatehosteasetukset</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Paramètres des effets photo</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Instellingen voor het foto-effect</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Fotoeffektinställningar</Translation>
+		</_40>
+		<_40>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Effect off</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Effekt aus</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Effekt fra</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Effetti Off</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Efecto off</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Tehoste pois</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Effet Off</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Effect uit</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Effekt av</Translation>
+		</_40>
+		<_40>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Vivid</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kräftig</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Vivid effekt</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Contrasto</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Intenso</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Korostettu</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Eclatant</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Levendig</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Kraftig</Translation>
+		</_40>
+		<_40>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Neutral</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Neutral</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Neutral</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Neutro</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Neutro</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Neutraali</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Neutre</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Neutraal</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Neutral</Translation>
+		</_40>
+		<_40>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Low Sharpening</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Gering schärfen</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Blød overgang</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Bassa Definiz.</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Baja nitidez</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Terävöli -lievä</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Contraste bas</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Onscherpte</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Lâg skärpa</Translation>
+		</_40>
+		<_40>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Sepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Sepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Sepia effekt</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Seppia</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Sepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Seepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Sepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Sepia</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Sepia</Translation>
+		</_40>
+		<_40>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">B/W</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Schwarz/Weiß</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Sort/Hvid</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Blanco/Nero</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Blanco y Negro</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Mustavalko</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Noir et blanc</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Zwart/Wit</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Svartvitt</Translation>
+		</_40>
+		<__7_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+			<Languages TYPE="MULTIVAL">da</Languages>
+			<Languages TYPE="MULTIVAL">it</Languages>
+			<Languages TYPE="MULTIVAL">es</Languages>
+			<Languages TYPE="MULTIVAL">fi</Languages>
+			<Languages TYPE="MULTIVAL">fr</Languages>
+			<Languages TYPE="MULTIVAL">nl</Languages>
+			<Languages TYPE="MULTIVAL">sv</Languages>
+		</__7_Languages>
+		<__7>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">White balance</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Weißausgleich</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">hvidbalance</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Bilanc.Bianco</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Balance Blancos</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">valkotasapaino</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">balance des blancs</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">witbalans</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">vitbalans</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Automatisch</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Automaatti</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Auto</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Auto</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Day Light</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Tageslicht</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Dagslys</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Luce diurna</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Luz de dia</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Pälvänvalo</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Lumière naturelle</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Dag Licht</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Dagsljus</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Cloudy</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Wolkig</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Overskyet</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Nuvoloso</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Nublado</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Pilvinen</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Ombragé</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Bewolkt</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Moln</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Tungsten</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kunstlich</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Tungsten Lys</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Tungsteno</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Tungsteno</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Keinovalo</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Lumière Tungsten</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Lamplicht</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Glödlampa</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Fluorescent</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Leuchtstoff</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Fluorescent</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Fluorescent</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Fluorescent</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Loisteputki</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Lumière Fluo</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">TL licht</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Lysrör</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Blitz</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Blitz</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Flash</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Flash</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Salama</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Flash</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Flister</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Blixt</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Custom</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Manuell</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Bruger def.</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Personalizzato</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Personalizar</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Oma asetus</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Personnalisé</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Custom</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Egen</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">14</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Fluorescent H</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Leuchtstoff H</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Fluorescent H</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Fluorescent H</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Fluorescent H</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Loisteputki H</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Lumière Fluo H</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">TL licht H</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Lysrör H</Translation>
+		</__7>
+		<__7>
+			<Title TYPE="SINGLEVAL">17</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Underwater</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Unterwasser</Translation>
+			<Translation TYPE="SINGLEVAL" language="da">Under vandet</Translation>
+			<Translation TYPE="SINGLEVAL" language="it">Subacqueo</Translation>
+			<Translation TYPE="SINGLEVAL" language="es">Bajo el Agua</Translation>
+			<Translation TYPE="SINGLEVAL" language="fi">Vedenalainen</Translation>
+			<Translation TYPE="SINGLEVAL" language="fr">Sous-marin</Translation>
+			<Translation TYPE="SINGLEVAL" language="nl">Onderwater</Translation>
+			<Translation TYPE="SINGLEVAL" language="sv">Under vatten</Translation>
+		</__7>
+		<__9_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</__9_Languages>
+		<__9>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Sequence number</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Sequenznummer</Translation>
+		</__9>
+		<__14_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</__14_Languages>
+		<__14>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">AF point used</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Benutzter AF Punkt</Translation>
+		</__14>
+		<__14>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">left</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">links</Translation>
+		</__14>
+		<__14>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">center</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">zentral</Translation>
+		</__14>
+		<__14>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">right</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">rechts</Translation>
+		</__14>
+		<__14>
+			<Title TYPE="SINGLEVAL">number of available focus points</Title>
+			<Translation TYPE="SINGLEVAL" language="en">number of available focus points</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Anzahl der zur Verfügung stehenden Fokuspunkte</Translation>
+		</__14>
+		<__15_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</__15_Languages>
+		<__15>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Flash bias</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Flash bias</Translation>
+		</__15>
+		<_29_2_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_2_Languages>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Coloradjustment</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Farbanpassung</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">No color adjustment</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Keine Farbanpassung</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Positive Film</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Diafilm</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Ligther Skin Tone</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Hellerer Hautton</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Darker Skin Tone</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Dunklerer Hautton</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Vivid Blue</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kräftiges Blau</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">5</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Vivid Green</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kräftiges Grün</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">6</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Vivid Red</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Kräftiges Rot</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">7</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Color Accent</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Farbton</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">8</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Color Swap</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Farbwechsel</Translation>
+		</_29_2>
+		<_29_2>
+			<Title TYPE="SINGLEVAL">9</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Custom Color</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Custom Farbe</Translation>
+		</_29_2>
+		<_29_4_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_4_Languages>
+		<_29_4>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Adjustment red</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Anpassung Rot</Translation>
+		</_29_4>
+		<_29_4>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-2</Translation>
+		</_29_4>
+		<_29_4>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-1</Translation>
+		</_29_4>
+		<_29_4>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">0</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">0</Translation>
+		</_29_4>
+		<_29_4>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">1</Translation>
+		</_29_4>
+		<_29_4>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">2</Translation>
+		</_29_4>
+		<_29_5_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_5_Languages>
+		<_29_5>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Adjustment green</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Anpassung Grün</Translation>
+		</_29_5>
+		<_29_5>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-2</Translation>
+		</_29_5>
+		<_29_5>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-1</Translation>
+		</_29_5>
+		<_29_5>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">0</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">0</Translation>
+		</_29_5>
+		<_29_5>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">1</Translation>
+		</_29_5>
+		<_29_5>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">2</Translation>
+		</_29_5>
+		<_29_6_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_6_Languages>
+		<_29_6>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Adjustment blue</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Anpassung Blau</Translation>
+		</_29_6>
+		<_29_6>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-2</Translation>
+		</_29_6>
+		<_29_6>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-1</Translation>
+		</_29_6>
+		<_29_6>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">0</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">0</Translation>
+		</_29_6>
+		<_29_6>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">1</Translation>
+		</_29_6>
+		<_29_6>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">2</Translation>
+		</_29_6>
+		<_29_7_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_7_Languages>
+		<_29_7>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">Adjustment skin color</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Anpassung Hautfarbe</Translation>
+		</_29_7>
+		<_29_7>
+			<Title TYPE="SINGLEVAL">0</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-2</Translation>
+		</_29_7>
+		<_29_7>
+			<Title TYPE="SINGLEVAL">1</Title>
+			<Translation TYPE="SINGLEVAL" language="en">-1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">-1</Translation>
+		</_29_7>
+		<_29_7>
+			<Title TYPE="SINGLEVAL">2</Title>
+			<Translation TYPE="SINGLEVAL" language="en">0</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">0</Translation>
+		</_29_7>
+		<_29_7>
+			<Title TYPE="SINGLEVAL">3</Title>
+			<Translation TYPE="SINGLEVAL" language="en">1</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">1</Translation>
+		</_29_7>
+		<_29_7>
+			<Title TYPE="SINGLEVAL">4</Title>
+			<Translation TYPE="SINGLEVAL" language="en">2</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">2</Translation>
+		</_29_7>
+		<_29_13_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_13_Languages>
+		<_29_13>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">picked color</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Gewählte Farbe</Translation>
+		</_29_13>
+		<_29_15_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</_29_15_Languages>
+		<_29_15>
+			<Title TYPE="SINGLEVAL">_Title_</Title>
+			<Translation TYPE="SINGLEVAL" language="en">picked color (2)</Translation>
+			<Translation TYPE="SINGLEVAL" language="de">Gewählte Farbe (2)</Translation>
+		</_29_15>
+	</Options>
+</Catalog>

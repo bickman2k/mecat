@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Actor</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schauspieler</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Actor</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Artist is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Interpret ist nicht angegeben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The Artist is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The Artist is _ .</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Interpret dieses Mediums ist [ARTIST].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The artist of this medium is [ARTIST].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Finished</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Beendet</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Finished</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">TheExportNeeded</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Export hat [TIME] Millisekunden gedauert.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The export needed [TIME] milliseconds.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export process</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportprozess</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export process</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export initialisation</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportinitialisierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export initialisation</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Preparing list</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vorbereiten der Liste</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Preparing list</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Creating list [1] of [2]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle Liste [1] von [2]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Creating list [1] of [2]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[1] of [2]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[1] von [2]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[1] of [2]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Finishing</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export wird fertiggestellt</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Finishing</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export finished</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export beendet</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export finished</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

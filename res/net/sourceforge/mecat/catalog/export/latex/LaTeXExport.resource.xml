@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">latex</Title>
+      <Translation TYPE="SINGLEVAL" language="de">LaTeX</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">LaTeX</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">LaTeXExport</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export durch LaTeX</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export by LaTeX</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">ExitValue</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Rückgabewert bei Beendigung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Exit-value</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not create file</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Datei [FILE] konnte nicht angelegt werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not create the file [FILE].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">CreateListNr</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle die Liste [NUMBER].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create the list [NUMBER].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">entries on page.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[NUMBER] Einträge pro Seite.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[NUMBER] entries per page.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Unexpected Exception while writing file</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Unerwarteter Fehler beim Schreiben der Datei [FILE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Unexpected error while writing the file [FILE].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not find unicode for latex.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Unicode für LaTeX wurde nicht gefunden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not find unicode for latex.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not find input encoding for utf8.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Utf8-Eingabecodierung wurde nicht gefunden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not find input encoding for utf8.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check for Unicode support.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüfe die Unterstützung von Unicode.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check for Unicode support.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Check for utf8 input encoding.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Überprüfe die Eingabemöglichkeit in utf8.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Check for utf8 input encoding.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Try alternative utf8x definition.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Versuche alternative definition utf8x.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Try alternative utf8x definition.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Timeout while waiting for expected response.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erwartete Antwort lässt zu lange auf sich warten.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Timeout while waiting for expected response.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Timeout while waiting for LaTeX process.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">LaTeX Prozess reagiert nicht mehr.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Timeout while waiting for LaTeX process.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">LaTeX Error: [ERROR]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">LaTeX Fehler: [ERROR]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">LaTeX Error: [ERROR]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not open output file for LaTeX.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Konnte Ausgabedatei für LaTeX nicht öffnen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not open output file for LaTeX.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">There is no suitable printer accessible.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein geeigneter Drucker ist zugänglich.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">There is no suitable printer accessible.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Necessary software MiKTeX could not be found.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Notwendige Software MiKTeX konnte nicht gefunden werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Necessary software MiKTeX could not be found.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Finishing</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Beenden</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Finishing</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export finished</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Export beendet</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export finished</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">MeCat</Title>
+      <Translation TYPE="SINGLEVAL" language="de">MeCat</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">MeCat</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Print</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Drucken</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Print</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Preferences...</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaften...</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Preferences...</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">General information...</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Allgemeine Informationen...</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">General information...</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Help</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Hilfe</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Help</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">About MeCat</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Über MeCat</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">About MeCat</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">File</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Datei</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">File</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Edit</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bearbeiten</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Edit</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Option</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaften</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Option</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">NonStdCatalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Andere Katalogtypen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Other catalog types</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">New catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Neuer Katalog</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">New catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Open catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalog öffnen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Open catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Import catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalog importieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Import catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose import method</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle Importmethode</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose import method</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Recent catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Letzte Kataloge</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Recent catalogs</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Save catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalog speichern</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Save catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Save catalog as</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Katalog speichern als</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Save catalog as</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The catalog [CATALOG] could not be opened.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Katalog [CATALOG] konnte nicht geöffnet werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The catalog [CATALOG] could not be opened.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Do you want to save the changes?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wollen Sie die Änderungen übernehmen?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Do you want to save the changes?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Save changes?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Änderungen übernehmen?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Save changes?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not save catalog.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Katalog konnte nicht gespeichert werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not save the catalog.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The catalog could not be found.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Der Katalog konnte nicht gefunden werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The catalog could not be found.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Export</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Exportieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Export</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Progress</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Fortschritt</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Progress</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Quit</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Beenden</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Quit</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle </Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create </Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Remove</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Entfernen </Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Remove </Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Copy</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kopieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Copy</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search...</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suchen...</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search...</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Undo</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Rückgängig machen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Undo</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Paste</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Einfügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Paste</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Less</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Weniger</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Less</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">More</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Mehr</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">More</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Next</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Nächster</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Next</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Previous</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vorheriger</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Previous</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Feature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Feature</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Feature</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Features</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Features</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Features</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Sorting</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Sorting Manager</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sortierungsmanager</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Sorting manager</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create Sorting</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create Sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Select Sorting</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Select sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Predefined Sortings</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vordefinierte Sortierungen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Predefined sortings</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Select Language</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle Sprache</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Select language</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No sorting</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Filter</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Filter</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Filtering Manager</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Filtermanager</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Filter manager</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create Filtering</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create Filtering</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Select Filtering</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Select filtering</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Predefined Filterings</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vordefinierte Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Predefined filterings</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No filtering</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No filtering</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Only</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Nur</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Only</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Language</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sprache</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Language</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Extras</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Extras</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Extras</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Image display</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bilddarstellung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Image display</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Show change log</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zeige Veränderungprotokoll</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Show change log</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Detail</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Detail</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Detail</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Number of entries</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Anzahl der Einträge</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Number of entries</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Number of entries with visible type.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Anzahl der Einträge mit Typ der angezeigt wird.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Number of entries with visible type.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Number of entries that fulfil the search criteria.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Anzahl der Einträge welche das Suchkriterium erfüllen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Number of entries that fulfil the search criteria.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Number of entries that fulfil the filter condition.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Anzahl der Einträge auf die der Filter zutrifft.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Number of entries that fulfil the filter condition.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No filter set</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein Filter gesetzt</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No filter set</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Used filter</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Benutzter Filter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Used filter</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No sorting set</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Keine Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No sorting set</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Used sorting</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Benutzte Sortierung</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Used sorting</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Switch between edit and view mode</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Umschalten zwischen Editier- und Ansichtsmodus</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Switch between edit and view mode</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create new [TYPE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle [TYPE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create new [TYPE].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Copy entry</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eintrag kopieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Copy entry</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Switch between edit and view mode</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schaltet zwischen Editier- und Anzeigmodus um</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Switch between edit and view mode</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Test</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Test</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Test</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Auto fill listing</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Automatisches befüllen des Listings</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Auto fill listing</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL"></Title>
+      <Translation TYPE="SINGLEVAL" language="de"></Translation>
+      <Translation TYPE="SINGLEVAL" language="en"></Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Option of the open catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaft des offnen Catalogs</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Option of the open catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Option of the import catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaft des zu importierenden Catalogs</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Option of the import catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Option of the merged catalog</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Eigenschaft des zusammengeführten Catalogs</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Option of the merged catalog</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Split</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Trennen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Split</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Unite</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Vereinigen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Unite</Translation>
+    </I18N>
+  </Options>
+</Catalog>

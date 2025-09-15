@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Padding = [SIZE]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Padding = [SIZE]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Padding = [SIZE]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Tag size: [SIZE]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Taggröße: [SIZE]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Tag size: [SIZE]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Crop unreadable rest (padding)</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lasse den Rest fallen (padding)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Crop unreadable rest (padding)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Unknown frame [FRAME].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Unbekanntes Frame [FRAME].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Unknown frame [FRAME].</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Frame size: [SIZE]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Framegröße: [SIZE]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Frame size: [SIZE]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Could not aquire copy buffer.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Konnte Kopierbuffer nicht bekommen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not aquire copy buffer.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

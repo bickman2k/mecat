@@ -1,0 +1,28 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Catalog>
+  <Entrys/>
+  <Options>
+    <FeatureOption TYPE="SUBNODE" >
+      <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.MultiImageFeatureOption</ClassName>
+      <ArgumentNumber TYPE="SINGLEVAL" >0</ArgumentNumber>
+      <Shared TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ImageFeatureOption</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+          <Value TYPE="SINGLEVAL" >Shared</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </Shared>
+      <Bag TYPE="SUBNODE" >
+        <ClassName TYPE="SINGLEVAL" >net.sourceforge.mecat.catalog.medium.features.option.ImageFeatureOption</ClassName>
+        <Argument TYPE="SUBNODE" >
+          <Number TYPE="SINGLEVAL" >0</Number>
+          <Type TYPE="SINGLEVAL" >java.lang.String</Type>
+          <Value TYPE="SINGLEVAL" >Bag</Value>
+        </Argument>
+        <ArgumentNumber TYPE="SINGLEVAL" >1</ArgumentNumber>
+      </Bag>
+    </FeatureOption>
+  </Options>
+</Catalog>

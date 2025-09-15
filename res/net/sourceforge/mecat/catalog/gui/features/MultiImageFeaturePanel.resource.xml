@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">loading...</Title>
+      <Translation TYPE="SINGLEVAL" language="de">lade...</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">loading...</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No Image available.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein Bild vorhanden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No Image available.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">JPEG-Image</Title>
+      <Translation TYPE="SINGLEVAL" language="de">JPEG-Bild</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">JPEG-Image</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">New</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Neu</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">New</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[NAME] => picture directory</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[NAME] => Bilderverzeichnis</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[NAME] => picture directory</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Store new</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Neues speichern</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Store new</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

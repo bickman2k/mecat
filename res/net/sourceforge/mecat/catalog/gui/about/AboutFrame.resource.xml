@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">TEXT</Title>
+      <Translation TYPE="SINGLEVAL" language="de">
+        MeCat Version [VERSION] &lt;br&gt; 
+        Copyright (C) 2004, Stephan Richard Palm, &lt;br&gt; 
+        Alle Rechte vorbehalten. &lt;br&gt;
+        Mehr Informationen auf: &lt;br&gt;
+        &lt;a href=&quot;http://mecat.sourceforge.net/&quot;&gt; http://mecat.sourceforge.net/ &lt;/a&gt;
+      </Translation>
+      <Translation TYPE="SINGLEVAL" language="en">
+        MeCat version [VERSION] &lt;br&gt; 
+        Copyright (C) 2004, Stephan Richard Palm, &lt;br&gt; 
+        All Rights Reserved. &lt;br&gt;
+        For more information see: &lt;br&gt;
+        &lt;a href=&quot;http://mecat.sourceforge.net/&quot;&gt; http://mecat.sourceforge.net/ &lt;/a&gt;
+      </Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

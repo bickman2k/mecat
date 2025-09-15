@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">FeatureDesktop</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Arbeitsoberfläche für Features</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Desktop for features</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">No medium selected.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Kein Medium gewählt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">No medium selected.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

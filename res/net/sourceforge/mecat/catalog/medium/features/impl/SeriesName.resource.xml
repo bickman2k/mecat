@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">SeriesName</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Name der Serie</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Name of the series</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The series name is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Es ist kein Serienname angegeben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The series name is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The medium is from the [SERIESNAME] series.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Medium ist aus der Serie [SERIESNAME].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The medium is from the [SERIESNAME] series.</Translation>
+    </I18N>
+  </Options>
+</Catalog>

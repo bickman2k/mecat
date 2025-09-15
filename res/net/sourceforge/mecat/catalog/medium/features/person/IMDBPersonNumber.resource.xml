@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">IMDBPersonNumber</Title>
+      <Translation TYPE="SINGLEVAL" language="de">IMDB-Nummer</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">IMDB-number</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The reference number to the imdb is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die Referenznummer für die imdb is nicht gesetzt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The reference number to the imdb is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The number for the person at the imdb is [NUMBER].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Die IMDB-Nummer für die Person ist [NUMBER].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The number for the person at the imdb is [NUMBER].</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

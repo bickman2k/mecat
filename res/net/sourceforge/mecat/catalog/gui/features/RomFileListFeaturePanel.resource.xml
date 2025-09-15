@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Delete</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Löschen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Delete</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Do you realy want to remove all information about the files an the media?</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sollen wirklich alle Informationen über diesen Datenträger gelöscht werden?</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Do you realy want to remove all information about the files an the media?</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Delete file list</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dateiliste entfernen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Delete file list</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">[BYTES] viewed.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[BYTES] angesehen.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">[BYTES] viewed.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

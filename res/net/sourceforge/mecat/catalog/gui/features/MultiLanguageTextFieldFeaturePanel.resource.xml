@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Add language</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Sprache hinzufügen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Add language</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

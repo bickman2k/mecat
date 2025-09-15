@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Feature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Feature</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Feature</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Features</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Features</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Features</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Option</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Eigenschaften</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Option</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">Options</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Eigenschaften</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">Options</Translation>
+    </I18N>
+    <I18N>
+	    <Title TYPE="SINGLEVAL">NoOptionsAvailable</Title>
+	    <Translation TYPE="SINGLEVAL" language="de">Es stehen keine Eigenschaften zur Verfügung.</Translation>
+	    <Translation TYPE="SINGLEVAL" language="en">There are no options available.</Translation>
+    </I18N>
+      <Title TYPE="SINGLEVAL">Could not find feature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Das Feature [FEATURE] konnte nicht gefunden werden.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Could not find the feature [FEATURE].</Translation>
+  </Options>
+<Entrys></Entrys></Catalog>

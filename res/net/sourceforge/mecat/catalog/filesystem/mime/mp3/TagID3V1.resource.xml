@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+	<Entrys></Entrys>
+	<Options>
+		<I18N_Languages>
+			<Languages TYPE="MULTIVAL">en</Languages>
+			<Languages TYPE="MULTIVAL">de</Languages>
+		</I18N_Languages>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Songtitle</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Liedtitel</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Songtitle</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Interpret</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Interpret</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Interpret</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Album</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Album</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Album</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Year</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Jahr</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Year</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Comment</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Kommentar</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Comment</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Genre</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Genre</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Genre</Translation>
+		</I18N>
+		<I18N>
+			<Title TYPE="SINGLEVAL">Titlenumber</Title>
+			<Translation TYPE="SINGLEVAL" language="de">Titelnummer</Translation>
+			<Translation TYPE="SINGLEVAL" language="en">Titlenumber</Translation>
+		</I18N>
+	</Options>
+</Catalog>

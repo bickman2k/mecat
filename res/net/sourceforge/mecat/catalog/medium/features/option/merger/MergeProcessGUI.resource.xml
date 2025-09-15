@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Step [POSITION] of [SIZE]</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Schritt [POSITION] von [SIZE]</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Step [POSITION] of [SIZE]</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Prev</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Zurück</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Prev</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Next</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Weiter</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Next</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Reset</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Reset</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Reset</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Import</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Importieren</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Import</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Cancel</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Abbrechen</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Cancel</Translation>
+    </I18N>
+  </Options>
+</Catalog>

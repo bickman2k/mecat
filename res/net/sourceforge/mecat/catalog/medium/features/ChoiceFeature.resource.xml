@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">ChoiceFeature</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Auswahlfeature</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choice feature</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The [ATTRIBUTENAME] is not set.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[ATTRIBUTENAME] ist nicht bestimmt.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The [ATTRIBUTENAME] is not set.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">The [ATTRIBUTENAME] is [CHOICE].</Title>
+      <Translation TYPE="SINGLEVAL" language="de">[ATTRIBUTENAME] ist [CHOICE].</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">The [ATTRIBUTENAME] is [CHOICE].</Translation>
+    </I18N>
+  </Options>
+</Catalog>

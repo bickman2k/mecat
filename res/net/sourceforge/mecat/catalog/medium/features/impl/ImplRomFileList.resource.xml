@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">ImplRomFileList</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Dateiliste</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">List of files</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Rom file list storage option</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Rom Dateilisteneigenschaften</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Rom file list storage option</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Read file list</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Lade Dateiliste von Medium</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Read file list from Medium</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

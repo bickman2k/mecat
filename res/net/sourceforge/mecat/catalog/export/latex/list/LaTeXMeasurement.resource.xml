@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Type of the column.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Typ der Spalte.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Type of the column.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Choose the type of the column.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wähle den Typ der Spalte.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Choose the type of the column.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Please input widths.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Bitte die Breite angeben.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Please input width.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

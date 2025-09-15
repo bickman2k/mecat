@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Liste>
+<Catalog>
+  <Options>
+  	<I18N_Languages>
+      <Languages TYPE="MULTIVAL">en</Languages>
+      <Languages TYPE="MULTIVAL">de</Languages>
+  	</I18N_Languages>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Create search</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Erstelle Suche</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Create search</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search everything, hidden types included.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche über alle Einträge, versteckte eingeschlossen. (Große Suche)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search everything, hidden types included. (Biggest search)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search all visible media including those that are hidden by the current filter.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche über alle Einträge inklusive der die durch den Filter versteckt werden. (Mittlerer Suche)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search all visible media including those that are hidden by the current filter. (Medium search)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Search in the shown selection.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Suche in der gezeigten Auswahl. (Kleine Suche)</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Search in the shown selection. (Small Search)</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Finds the most entries, but may result in to many entries.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Findet die meisten Einträge, liefert vielleicht aber zu viel.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Finds the most entries, but may result in to many entries.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">If you don't know what to chose you want this.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wenn bei der Wahl unschlüssig, dann diese Einstellung.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">If you don't know what to chose you want this.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">If you want to keep the filter active for the search.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Wenn bei der Suche der aktuelle Filter beibehalten werden soll.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">If you want to keep the filter active for the search.</Translation>
+    </I18N>
+    <I18N>
+      <Title TYPE="SINGLEVAL">Place your search string here.</Title>
+      <Translation TYPE="SINGLEVAL" language="de">Hier kommt der Suchbegriff.</Translation>
+      <Translation TYPE="SINGLEVAL" language="en">Place your search string here.</Translation>
+    </I18N>
+  </Options>
+<Entrys></Entrys></Catalog>

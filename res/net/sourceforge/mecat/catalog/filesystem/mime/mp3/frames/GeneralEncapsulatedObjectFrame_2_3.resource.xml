@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+  <Entrys></Entrys>
+  <Options>
+	  <I18N_Languages>
+		  <Languages TYPE="MULTIVAL">en</Languages>
+	  </I18N_Languages>
+<I18N>
+	<Title TYPE="SINGLEVAL">GEOB</Title>
+	<Translation TYPE="SINGLEVAL" language="en">
+   In the 'General encapsulated object' frame any type of file can be encapsulated. After the header,
+   'Frame size' and 'Encoding' follows 'MIME type' [MIME] and 'Filename'
+   for the encapsulated object, both represented as terminated strings
+   encoded with ISO 8859-1 [ISO-8859-1]. The filename is case sensitive.
+   Then follows a content description as terminated string, encoded as
+   'Encoding'. The last thing in the frame is the actual object. The
+   first two strings may be omitted, leaving only their terminations.
+   MIME type is always an ISO-8859-1 text string. There may be more than
+   one "GEO" frame in each tag, but only one with the same content
+   descriptor.
+	</Translation>
+</I18N>
+  </Options>
+</Catalog>
